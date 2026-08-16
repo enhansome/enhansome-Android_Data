@@ -44,7 +44,7 @@
             "last_commit": "2026-06-30T18:21:16Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 495873
+            "stars": 496228
           }
         },
         {
@@ -58,7 +58,7 @@
             "last_commit": "2026-06-05T05:39:52Z",
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57208
+            "stars": 57218
           }
         },
         {
@@ -72,7 +72,7 @@
             "last_commit": "2026-08-10T00:17:55Z",
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48741
+            "stars": 48750
           }
         },
         {
@@ -86,7 +86,7 @@
             "last_commit": "2024-12-18T09:31:14Z",
             "owner": "mzlogin",
             "repo": "awesome-adb",
-            "stars": 12415
+            "stars": 12416
           }
         },
         {
@@ -100,7 +100,7 @@
             "last_commit": "2025-10-27T08:14:07Z",
             "owner": "JStumpp",
             "repo": "awesome-android",
-            "stars": 12279
+            "stars": 12280
           }
         },
         {
@@ -272,7 +272,7 @@
             "last_commit": "2026-07-31T11:42:30Z",
             "owner": "iluwatar",
             "repo": "java-design-patterns",
-            "stars": 94565
+            "stars": 94566
           }
         },
         {
@@ -317,10 +317,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-07-31T05:21:54Z",
+            "last_commit": "2026-08-15T13:12:46Z",
             "owner": "CharonChui",
             "repo": "AndroidNote",
-            "stars": 3929
+            "stars": 3930
           }
         },
         {
@@ -438,7 +438,7 @@
             "last_commit": "2023-07-18T06:23:48Z",
             "owner": "JackyAndroid",
             "repo": "AndroidInterview-Q-A",
-            "stars": 7999
+            "stars": 7998
           }
         }
       ],
@@ -472,7 +472,7 @@
             "last_commit": "2019-08-19T15:36:54Z",
             "owner": "Tim9Liu9",
             "repo": "TimLiu-Android",
-            "stars": 3052
+            "stars": 3053
           }
         },
         {
@@ -486,7 +486,7 @@
             "last_commit": "2018-12-29T10:47:13Z",
             "owner": "lizhangqu",
             "repo": "CoreLink",
-            "stars": 2723
+            "stars": 2722
           }
         },
         {
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T06:15:00.206Z",
+    "last_updated": "2026-08-16T06:16:19.879Z",
     "original_repository": "Freelander/Android_Data",
     "original_repository_sha": "df3d108a95de1a6b7198fd14fd7234b62af19b16",
     "enhanced_repository": "enhansome/enhansome-Android_Data",
