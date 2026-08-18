@@ -44,7 +44,7 @@
             "last_commit": "2026-06-30T18:21:16Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 496686
+            "stars": 497092
           }
         },
         {
@@ -58,7 +58,7 @@
             "last_commit": "2026-06-05T05:39:52Z",
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57216
+            "stars": 57223
           }
         },
         {
@@ -72,7 +72,7 @@
             "last_commit": "2026-08-17T00:12:13Z",
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48755
+            "stars": 48762
           }
         },
         {
@@ -86,7 +86,7 @@
             "last_commit": "2024-12-18T09:31:14Z",
             "owner": "mzlogin",
             "repo": "awesome-adb",
-            "stars": 12418
+            "stars": 12417
           }
         },
         {
@@ -100,7 +100,7 @@
             "last_commit": "2025-10-27T08:14:07Z",
             "owner": "JStumpp",
             "repo": "awesome-android",
-            "stars": 12282
+            "stars": 12285
           }
         },
         {
@@ -142,7 +142,7 @@
             "last_commit": "2023-08-29T05:35:31Z",
             "owner": "wasabeef",
             "repo": "awesome-android-libraries",
-            "stars": 5527
+            "stars": 5528
           }
         },
         {
@@ -269,10 +269,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-16T19:16:51Z",
+            "last_commit": "2026-08-17T22:42:48Z",
             "owner": "iluwatar",
             "repo": "java-design-patterns",
-            "stars": 94569
+            "stars": 94578
           }
         },
         {
@@ -317,7 +317,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-16T15:58:36Z",
+            "last_commit": "2026-08-17T17:07:11Z",
             "owner": "CharonChui",
             "repo": "AndroidNote",
             "stars": 3930
@@ -458,7 +458,7 @@
             "last_commit": "2024-08-15T10:38:10Z",
             "owner": "Blankj",
             "repo": "AndroidUtilCode",
-            "stars": 33637
+            "stars": 33636
           }
         },
         {
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T06:24:17.696Z",
+    "last_updated": "2026-08-18T06:18:39.110Z",
     "original_repository": "Freelander/Android_Data",
     "original_repository_sha": "df3d108a95de1a6b7198fd14fd7234b62af19b16",
     "enhanced_repository": "enhansome/enhansome-Android_Data",
