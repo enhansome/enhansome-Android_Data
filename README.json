@@ -15,7 +15,7 @@
             "last_commit": "2026-08-18T13:28:50Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 497908
+            "stars": 498364
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-06-05T05:39:52Z",
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57257
+            "stars": 57263
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-19T18:23:37Z",
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48790
+            "stars": 48802
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2024-12-18T09:31:14Z",
             "owner": "mzlogin",
             "repo": "awesome-adb",
-            "stars": 12422
+            "stars": 12426
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2025-10-27T08:14:07Z",
             "owner": "JStumpp",
             "repo": "awesome-android",
-            "stars": 12286
+            "stars": 12290
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2020-04-21T13:45:25Z",
             "owner": "snowdream",
             "repo": "awesome-android",
-            "stars": 5901
+            "stars": 5902
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2023-08-29T05:35:31Z",
             "owner": "wasabeef",
             "repo": "awesome-android-libraries",
-            "stars": 5527
+            "stars": 5528
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2023-05-28T17:32:11Z",
             "owner": "navasmdc",
             "repo": "MaterialDesignLibrary",
-            "stars": 8917
+            "stars": 8918
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2026-08-17T22:42:48Z",
             "owner": "iluwatar",
             "repo": "java-design-patterns",
-            "stars": 94590
+            "stars": 94597
           }
         },
         {
@@ -294,7 +294,7 @@
             "last_commit": "2021-10-01T07:31:17Z",
             "owner": "futurice",
             "repo": "android-best-practices",
-            "stars": 20442
+            "stars": 20441
           }
         },
         {
@@ -306,7 +306,7 @@
             "archived": false,
             "id": 15064456,
             "language": null,
-            "last_commit": "2026-08-19T13:13:51Z",
+            "last_commit": "2026-08-20T13:12:09Z",
             "owner": "CharonChui",
             "repo": "AndroidNote",
             "stars": 3931
@@ -369,7 +369,7 @@
             "last_commit": "2022-03-02T01:24:41Z",
             "owner": "jiang111",
             "repo": "awesome-android-tips",
-            "stars": 2566
+            "stars": 2567
           }
         },
         {
@@ -471,7 +471,7 @@
             "last_commit": "2019-08-19T15:36:54Z",
             "owner": "Tim9Liu9",
             "repo": "TimLiu-Android",
-            "stars": 3053
+            "stars": 3052
           }
         },
         {
@@ -486,7 +486,7 @@
             "last_commit": "2018-12-29T10:47:13Z",
             "owner": "lizhangqu",
             "repo": "CoreLink",
-            "stars": 2721
+            "stars": 2720
           }
         },
         {
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T06:20:31.780Z",
+    "last_updated": "2026-08-21T06:20:55.306Z",
     "original_repository": "Freelander/Android_Data",
     "original_repository_id": 33390523,
     "original_repository_sha": "df3d108a95de1a6b7198fd14fd7234b62af19b16",
