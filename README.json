@@ -1,6 +1,768 @@
 {
   "items": [
     {
+      "description": "(附上: 由 @脉脉不得语 收集维护超多开发工具下载地址 AndroidDevTools, 后五个工具资料在 stormzhang 博客中找到的,地址)",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jadx",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8859474,
+            "language": "Java",
+            "last_commit": "2026-08-19T18:52:12Z",
+            "owner": "skylot",
+            "repo": "jadx",
+            "stars": 50181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "一个 Android 反编译神器, 不同于常见的 dex2jar",
+          "description": ", 这个反编译器生成代码的 try/catch 次数更少, View也不再是数字 id 了, 可读性更高",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32313383,
+            "language": "Java",
+            "last_commit": "2024-07-21T06:08:25Z",
+            "owner": "pxb1988",
+            "repo": "dex2jar",
+            "stars": 13137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "android-selector",
+          "description": "可以根据指定颜色生成 Selector Drawable 的插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40874269,
+            "language": "Java",
+            "last_commit": "2015-11-12T15:32:17Z",
+            "owner": "importre",
+            "repo": "android-selector-intellij-plugin",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GradleDependenciesHelperPlugin",
+          "description": "Gradle 依赖自动补全插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12949636,
+            "language": "Java",
+            "last_commit": "2014-05-24T22:49:52Z",
+            "owner": "ligi",
+            "repo": "GradleDependenciesHelperPlugin",
+            "stars": 379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "folding-plugin",
+          "description": "layout 文件夹里的布局文件一般很长很长没有目录, 这个插件就可以把 layout 分好层级结构, 类似 src 下目录结构",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39215066,
+            "language": "Java",
+            "last_commit": "2015-11-14T14:48:01Z",
+            "owner": "dmytrodanylyk",
+            "repo": "folding-plugin",
+            "stars": 1512
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeGlance",
+          "description": "在编辑代码最右侧, 显示一块代码小地图",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10883743,
+            "language": "Kotlin",
+            "last_commit": "2021-06-15T07:31:43Z",
+            "owner": "vektah",
+            "repo": "CodeGlance",
+            "stars": 1052
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "idea-markdown",
+          "description": "在 AS 中编写 Markdown 文件, 可以直接预览网页显示效果, 对于你经常编写 Markdown 文件的你值得拥有这个插件",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 1415684,
+            "language": "Java",
+            "last_commit": "2016-05-22T11:04:29Z",
+            "owner": "nicoulaj",
+            "repo": "idea-markdown",
+            "stars": 593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ClassyShark",
+          "description": "ClassyShark 是 Google 发布的一款可以查看 Android 可执行文件的浏览工具, 支持.dex, .aar, .so, .apk, .jar, .class, .xml 等文件格式, 分析里面的内容包括 classes.dex 文件, 包方法数量, 类, 字符串, 使用的 NativeLibrary 等",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 44109745,
+            "language": "Java",
+            "last_commit": "2023-05-19T10:01:03Z",
+            "owner": "google",
+            "repo": "android-classyshark",
+            "stars": 7558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AndroidWiFiADB",
+          "description": "使用 WiFi 连接而不需要 USB 连接 Android 设备达到安装, 运行, 调试应用的目的",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 44498352,
+            "language": "Java",
+            "last_commit": "2019-05-23T10:17:28Z",
+            "owner": "pedrovgs",
+            "repo": "AndroidWiFiADB",
+            "stars": 4137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "checkstyle-idea",
+          "description": "Checkstyle-idea 是一款检查自己写的代码是否符合规范的插件, 该插件是根据 checkstyle.xml 文件来检查的, checkstyle.xml 文件可以由自己自己定义, 也可以使用一些大公司定义的规范, 如果不懂得如何定义, 可以查看 官方文档, 该插件的详细介绍以及使用, 可以看一下咕咚大侠写的 文章",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2335594,
+            "language": "Java",
+            "last_commit": "2026-08-24T10:20:18Z",
+            "owner": "jshiell",
+            "repo": "checkstyle-idea",
+            "stars": 918
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ECTranslation",
+          "description": "ECTranslation 是 Android Studio 开发工具的一个翻译插件, 可以将英文翻译为中文, 英语基础差的童鞋装上它就可以轻松阅读 Android 源码啦",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 58985060,
+            "language": "Java",
+            "last_commit": "2026-06-18T11:57:02Z",
+            "owner": "Skykai521",
+            "repo": "ECTranslation",
+            "stars": 1862
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AndroidLocalizationer",
+          "description": "可用于将项目中的 string 资源自动翻译为其他语言的插件, 其翻译支持使用 Microsoft Translator 或 Google Translation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27294912,
+            "language": "Java",
+            "last_commit": "2016-04-21T02:21:58Z",
+            "owner": "westlinkin",
+            "repo": "AndroidLocalizationer",
+            "stars": 823
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ButterKnife Zelezny",
+          "description": "ButterKnife 生成器, 使用起来非常简单方便, 为你简写了很多 findViewId 代码, 如果你不了解 ButterKnife 的可以到这里看看",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 15397085,
+            "language": "Java",
+            "last_commit": "2018-02-26T08:49:44Z",
+            "owner": "avast",
+            "repo": "android-butterknife-zelezny",
+            "stars": 3350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SelectorChapek",
+          "description": "设计师给我们提供好了各种资源, 每个按钮都要写一个selector是不是很麻烦? 这么这个插件就为解决这个问题而生, 你只需要做的是告诉设计师们按照规范命名就好了, 其他一键搞定",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12222625,
+            "language": "Java",
+            "last_commit": "2016-03-14T08:58:35Z",
+            "owner": "inmite",
+            "repo": "android-selector-chapek",
+            "stars": 1556
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GsonFormat",
+          "description": "现在大多数服务端 api 都以 json 数据格式返回, 而客户端需要根据 api 接口生成相应的实体类, 这个插件把这个过程自动化了, 赶紧使用起来吧",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26018955,
+            "language": "Java",
+            "last_commit": "2021-01-28T03:51:32Z",
+            "owner": "zzz40500",
+            "repo": "GsonFormat",
+            "stars": 3128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ParcelableGenerator",
+          "description": "Android中的序列化有两种方式, 分别是实现 Serializable 接口和 Parcelable 接口, 但在 Android 中是推荐使用 Parcelable, 只不过我们这种方式要比Serializable方式要繁琐, 那么有了这个插件一切就ok了",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7936739,
+            "language": "Java",
+            "last_commit": "2021-02-15T13:02:08Z",
+            "owner": "mcharmas",
+            "repo": "android-parcelable-intellij-plugin",
+            "stars": 2121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LeakCanary",
+          "description": "良心企业 Square 最近刚开源的一个非常有用的工具, 强烈推荐, 帮助你在开发阶段方便的检测出内存泄露的问题, 使用起来更简单方便, 而且我们团队第一时间使用帮助我们发现了不少问题, 英文不好的这里有雷锋同志翻译的中文版 LeakCanary 中文使用说明",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 34824499,
+            "language": "Kotlin",
+            "last_commit": "2026-08-24T10:00:10Z",
+            "owner": "square",
+            "repo": "leakcanary",
+            "stars": 29984
+          }
+        }
+      ],
+      "title": "开发环境/工具"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Google I/O 2014",
+          "description": "Google I/O Android App 使用了当时最新推出的 Material Design 设计",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 18347476,
+            "language": "Kotlin",
+            "last_commit": "2023-01-05T18:35:51Z",
+            "owner": "google",
+            "repo": "iosched",
+            "stars": 21644
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google play music",
+          "description": "一个跨多个平台音乐播放器",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 31929346,
+            "language": "Kotlin",
+            "last_commit": "2026-01-09T15:17:00Z",
+            "owner": "android",
+            "repo": "uamp",
+            "stars": 13175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google Santa Tracker for Android",
+          "description": "Google 开源的一个儿童教育和娱乐的 App",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 32765638,
+            "language": "Java",
+            "last_commit": "2022-06-30T06:38:28Z",
+            "owner": "google",
+            "repo": "santa-tracker-android",
+            "stars": 2061
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github客户端",
+          "description": "开源者 github 团队, 支持项目的 lssues 和 Gists 并集成了新闻 feed 以便及时获取来自组织好友和资料库的更新信息, 还提供了一个用于快速访问你创建,监控以及发布 issue 面板, 可查看并将问题加到收藏夹",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2349728,
+            "language": "Java",
+            "last_commit": "2023-06-06T08:03:11Z",
+            "owner": "pockethub",
+            "repo": "PocketHub",
+            "stars": 9361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Talon-for-Twitter",
+          "description": "一个完整版 Twitter 第三方客户端, 属于顶级水平, 而且在源代码 100% 开源, 学习资源让你取之不尽",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 25601850,
+            "language": "Java",
+            "last_commit": "2018-07-04T16:54:05Z",
+            "owner": "klinker24",
+            "repo": "talon-twitter-holo",
+            "stars": 1651
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anime Taste",
+          "description": "开发者是代码家为 AnimeTaste 全球动画精选开发的 Android 客户端, 国内很少见的精彩而且开源的 APP, 获得豌豆荚110期设计奖",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12924500,
+            "language": "Java",
+            "last_commit": "2021-11-18T18:47:27Z",
+            "owner": "daimajia",
+            "repo": "AnimeTaste",
+            "stars": 1621
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EverMemo",
+          "description": "开发者是代码家, EverMemo 是一款让你快速记录与分享灵感的随身便签, 极简的界面与卡片式布局, 让你记录与查找便签更有效率",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13083053,
+            "language": "Java",
+            "last_commit": "2014-07-13T01:12:41Z",
+            "owner": "daimajia",
+            "repo": "EverMemo",
+            "stars": 797
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "9GAG",
+          "description": "开发者是 stormzhang 博主,这个开源项目教你使用 Studio, Gradle 以及一些流行的开源库快速开发一个不错的 Android 客户端",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 18827225,
+            "language": "Java",
+            "last_commit": "2026-04-30T16:00:50Z",
+            "owner": "stormzhang",
+            "repo": "9GAG",
+            "stars": 2118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MIUI 便签",
+          "description": "MiCode 便签是小米便签的社区开源版, 由 MIUI 团队（ww.miui.com）发起并贡献第一批代码, 遵循 NOTICE 文件所描述的开源协议",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3054450,
+            "language": "Java",
+            "last_commit": "2023-03-29T02:56:13Z",
+            "owner": "MiCode",
+            "repo": "Notes",
+            "stars": 2098
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Muzei Live Wallpaper",
+          "description": "开发者是 Ian Lake , 就职于 Google, 这款是定时更换桌面精美壁纸 App",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16598287,
+            "language": "Kotlin",
+            "last_commit": "2026-08-24T03:59:07Z",
+            "owner": "muzei",
+            "repo": "muzei",
+            "stars": 4940
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "四次元-新浪微博客户端",
+          "description": "一个仿新浪微博客户端 App, 基本都含有新浪微博的功能, 开源团队写了一份 wiki 文档, 可以去学习一下该 App 是如何实现的",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5193009,
+            "language": "Java",
+            "last_commit": "2016-08-14T15:31:04Z",
+            "owner": "qii",
+            "repo": "weiciyuan",
+            "stars": 2599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "知乎专栏",
+          "description": "开发者是白瓦力, 项目结构清晰, 代码分包合理, 很棒. 很适合新手去学习如何搭建一个 App 结构, 熟悉开发一个完整 App 的流程",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32923666,
+            "language": "Java",
+            "last_commit": "2017-04-17T08:25:14Z",
+            "owner": "bxbxbai",
+            "repo": "ZhuanLan",
+            "stars": 723
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eoe 客户端",
+          "description": "eoe 社区Android客户端",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7832859,
+            "language": "Java",
+            "last_commit": "2015-10-06T02:34:12Z",
+            "owner": "eoecn",
+            "repo": "android-app",
+            "stars": 1179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "v2ex",
+          "description": "开发者是杨辉, 这个是 v2ex Android 第三方客户端",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17084683,
+            "language": "Java",
+            "last_commit": "2015-04-26T10:15:31Z",
+            "owner": "kyze8439690",
+            "repo": "v2ex-daily-android",
+            "stars": 466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tweet Lanes",
+          "description": "功能比较完整的 Twitter 客户端",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8216154,
+            "language": "Java",
+            "last_commit": "2018-09-16T19:23:35Z",
+            "owner": "chrislacy",
+            "repo": "TweetLanes",
+            "stars": 756
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Financius",
+          "description": "一款简单易用个人理财 Android 程序",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14277656,
+            "language": "Java",
+            "last_commit": "2019-05-12T20:53:22Z",
+            "owner": "mvarnagiris",
+            "repo": "financius",
+            "stars": 625
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZXing",
+          "description": "二维码扫描工具,市场上许多应用的二维码扫描工具都是从这个修改得到的",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2562751,
+            "language": "Java",
+            "last_commit": "2026-08-24T12:12:03Z",
+            "owner": "zxing",
+            "repo": "zxing",
+            "stars": 34077
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "photup",
+          "description": "编辑机批量上传照片到 facebook 上,代码分包合理,很棒,不过这个项目依赖的开源项目比较多, 比较难编译",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7622340,
+            "language": "Java",
+            "last_commit": "2018-01-07T08:51:39Z",
+            "owner": "chrisbanes",
+            "repo": "photup",
+            "stars": 940
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "todo.txt-android",
+          "description": "todo.txt 官方 Android 应用, 一个极简的将待办事件记录在 .txt 文件中",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 665357,
+            "language": "Java",
+            "last_commit": "2020-07-16T00:16:04Z",
+            "owner": "todotxt",
+            "repo": "todo.txt-android",
+            "stars": 1245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "扫扫图书",
+          "description": "一个让你懂得如何去选择一本书的 APP, 具有扫描搜索查询图书的信息功能",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30167550,
+            "language": "Java",
+            "last_commit": "2015-03-12T12:17:59Z",
+            "owner": "JayFang1993",
+            "repo": "ScanBook",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChaseWhisplyProject",
+          "description": "开启摄像头在你所在位置寻找鬼魂, 进行打鬼游戏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 11075217,
+            "language": "Java",
+            "last_commit": "2024-03-16T06:40:06Z",
+            "owner": "tvbarthel",
+            "repo": "ChaseWhisplyProject",
+            "stars": 551
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AntennaPod",
+          "description": "AntennaPod 是一个自由, 开源的播客客户端, 支持 Atom 和 RSS Feed",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5244445,
+            "language": "Java",
+            "last_commit": "2026-08-23T17:15:14Z",
+            "owner": "AntennaPod",
+            "repo": "AntennaPod",
+            "stars": 8102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "干柴",
+          "description": "开发者是冯建, 一个专注收集 android 相关干货(文摘,名博,github等等)资源 App",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33542464,
+            "language": "Java",
+            "last_commit": "2015-10-10T06:59:43Z",
+            "owner": "openproject",
+            "repo": "AndroidDigest",
+            "stars": 428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hacker News",
+          "description": "一个查看黑客新闻报道和评论的 App",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5568881,
+            "language": "Java",
+            "last_commit": "2024-06-02T14:19:36Z",
+            "owner": "manmal",
+            "repo": "hn-android",
+            "stars": 496
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "proxydroid",
+          "description": "ProxyDroid 是一个帮助你在你的 Android 设备上设置代理 (HTTP / SOCKS4 / SOCKS5)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3280827,
+            "language": "Kotlin",
+            "last_commit": "2026-05-12T06:40:47Z",
+            "owner": "madeye",
+            "repo": "proxydroid",
+            "stars": 2540
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "开发者是张涛",
+          "description": ", 快捷音乐使用到KJFrameForAndroid开发框架, 拥有界面绚丽, 操作简单, 播放手机本地音乐, 在线收听音乐等功能, 还支持: 新浪微博, 百度账号, QQ 账号的一键登录",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20617245,
+            "language": "Java",
+            "last_commit": "2026-03-17T06:36:33Z",
+            "owner": "kymjs",
+            "repo": "KJFrameForAndroid",
+            "stars": 1938
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlackLight",
+          "description": "BlackLight是由纸飞机开发团队开发的一款Android上的新浪微博第三方轻量级客户端",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 23015644,
+            "language": "Kotlin",
+            "last_commit": "2016-09-11T08:13:07Z",
+            "owner": "PaperAirplane-Dev-Team",
+            "repo": "BlackLight",
+            "stars": 871
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Actor",
+          "description": "Actor(优聆) 是一款即时通讯 App, 解决网络通讯差的情况, 支持离线消息和文件存储, 自动与手机联系人建立联系等等",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 37791069,
+            "language": "Java",
+            "last_commit": "2021-11-09T04:19:07Z",
+            "owner": "actorapp",
+            "repo": "actor-platform",
+            "stars": 3256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plaid",
+          "description": "一个遵循 Material Design 的一个设计新闻客户端，里面的一些完全MD的一些特效很棒，同时整个客户端的框架设计也很有参考意义",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 45261969,
+            "language": "Kotlin",
+            "last_commit": "2024-01-04T20:49:31Z",
+            "owner": "nickbutcher",
+            "repo": "plaid",
+            "stars": 16178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimplifyReader",
+          "description": "一款基于 Google Material Design 设计开发的 Android 客户端, 包括新闻简读, 图片浏览, 视频爽看, 音乐轻听以及二维码扫描五个子模块, 项目采取的是MVP架构开发",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40877175,
+            "language": "Java",
+            "last_commit": "2021-09-17T06:40:26Z",
+            "owner": "chentao0707",
+            "repo": "SimplifyReader",
+            "stars": 4544
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHPHub-Android",
+          "description": "PHPHub Android 客户端, 项目架构使用 nucleus 简化 MVP 架构, API 请求返回数据使用 RxJava 进行处理, 客户端使用了独特的二维码扫码登录, 有兴趣的可以去研究一下",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 42855315,
+            "language": "Java",
+            "last_commit": "2017-06-26T01:01:30Z",
+            "owner": "CycloneAxe",
+            "repo": "phphub-android",
+            "stars": 937
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leisure",
+          "description": "闲暇(Leisure)是一款集\"知乎日报\", \"果壳科学人\", \"新华网新闻\"以及\"豆瓣图书\"于一体的阅读类 Android 应用, 项目里面有多语言切换、夜间模式以及无图模式, 如果你还不知道这些技术怎么实现, 不妨参考一下这个项目",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 46057819,
+            "language": "Java",
+            "last_commit": "2018-06-07T13:43:11Z",
+            "owner": "MummyDing",
+            "repo": "Leisure",
+            "stars": 546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bingo",
+          "description": "开发者是孙福生, Bingo 是一款 IT 阅读学习类的开源软件, 作者收集一些干货学习内容, 你也可以在 App 上分享你的认为干货文章, 该项目使用动态代理 AOP 编程框架, 使开发起来更简洁, 更高效. 里面有一个功能就是多种主题切换, 感兴趣的可以看看怎么实现",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40248738,
+            "language": "Java",
+            "last_commit": "2017-09-01T08:06:30Z",
+            "owner": "sunfusheng",
+            "repo": "Bingo",
+            "stars": 515
+          }
+        }
+      ],
+      "title": "开源项目学习"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -15,7 +777,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499372
+            "stars": 499506
           }
         },
         {
@@ -30,7 +792,7 @@
             "last_commit": "2026-06-05T05:39:52Z",
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57317
+            "stars": 57322
           }
         },
         {
@@ -45,7 +807,7 @@
             "last_commit": "2026-08-24T00:59:50Z",
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48832
+            "stars": 48835
           }
         },
         {
@@ -60,7 +822,7 @@
             "last_commit": "2024-12-18T09:31:14Z",
             "owner": "mzlogin",
             "repo": "awesome-adb",
-            "stars": 12429
+            "stars": 12430
           }
         },
         {
@@ -75,7 +837,7 @@
             "last_commit": "2025-10-27T08:14:07Z",
             "owner": "JStumpp",
             "repo": "awesome-android",
-            "stars": 12295
+            "stars": 12296
           }
         },
         {
@@ -120,7 +882,7 @@
             "last_commit": "2023-08-29T05:35:31Z",
             "owner": "wasabeef",
             "repo": "awesome-android-libraries",
-            "stars": 5527
+            "stars": 5528
           }
         },
         {
@@ -248,6 +1010,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "awesome-design",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 63935685,
+            "language": null,
+            "last_commit": "2024-07-04T18:17:39Z",
+            "owner": "gztchan",
+            "repo": "awesome-design",
+            "stars": 17449
+          }
+        }
+      ],
+      "title": "素材"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Android 开源项目汇总",
+          "description": "(Trinea 大神收集的)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15653276,
+            "language": null,
+            "last_commit": "2026-03-25T01:04:16Z",
+            "owner": "Trinea",
+            "repo": "android-open-project",
+            "stars": 31818
+          }
+        }
+      ],
+      "title": "开源库收集"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "java-design-patterns",
           "description": null,
           "children": [],
@@ -258,7 +1062,7 @@
             "last_commit": "2026-08-17T22:42:48Z",
             "owner": "iluwatar",
             "repo": "java-design-patterns",
-            "stars": 94607
+            "stars": 94609
           }
         },
         {
@@ -456,7 +1260,7 @@
             "last_commit": "2024-08-15T10:38:10Z",
             "owner": "Blankj",
             "repo": "AndroidUtilCode",
-            "stars": 33634
+            "stars": 33633
           }
         },
         {
@@ -471,7 +1275,7 @@
             "last_commit": "2019-08-19T15:36:54Z",
             "owner": "Tim9Liu9",
             "repo": "TimLiu-Android",
-            "stars": 3052
+            "stars": 3053
           }
         },
         {
@@ -569,7 +1373,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T06:28:26.672Z",
+    "last_updated": "2026-08-24T13:51:51.039Z",
     "original_repository": "Freelander/Android_Data",
     "original_repository_id": 33390523,
     "original_repository_sha": "df3d108a95de1a6b7198fd14fd7234b62af19b16",
