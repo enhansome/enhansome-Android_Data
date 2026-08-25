@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T18:52:12Z",
             "owner": "skylot",
             "repo": "jadx",
-            "stars": 50196
+            "stars": 50199
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-24T10:20:18Z",
             "owner": "jshiell",
             "repo": "checkstyle-idea",
-            "stars": 918
+            "stars": 919
           }
         },
         {
@@ -252,7 +252,7 @@
             "archived": false,
             "id": 34824499,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T10:00:10Z",
+            "last_commit": "2026-08-25T06:26:17Z",
             "owner": "square",
             "repo": "leakcanary",
             "stars": 29985
@@ -777,7 +777,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499690
+            "stars": 499708
           }
         },
         {
@@ -882,7 +882,7 @@
             "last_commit": "2023-08-29T05:35:31Z",
             "owner": "wasabeef",
             "repo": "awesome-android-libraries",
-            "stars": 5528
+            "stars": 5529
           }
         },
         {
@@ -1062,7 +1062,7 @@
             "last_commit": "2026-08-25T04:52:07Z",
             "owner": "iluwatar",
             "repo": "java-design-patterns",
-            "stars": 94612
+            "stars": 94613
           }
         },
         {
@@ -1373,7 +1373,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:45:33.846Z",
+    "last_updated": "2026-08-25T06:41:41.511Z",
     "original_repository": "Freelander/Android_Data",
     "original_repository_id": 33390523,
     "original_repository_sha": "df3d108a95de1a6b7198fd14fd7234b62af19b16",
