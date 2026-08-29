@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dex to Java decompiler",
+            "homepage": null,
             "id": 8859474,
             "language": "Java",
-            "last_commit": "2026-08-28T17:42:51Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T18:02:10Z",
+            "open_issues": 443,
             "owner": "skylot",
             "repo": "jadx",
-            "stars": 50246
+            "stars": 50251,
+            "topics": [
+              "android",
+              "decompiler",
+              "dex",
+              "java"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -26,12 +36,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools to work with android .dex and java .class files",
+            "homepage": null,
             "id": 32313383,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-21T06:08:25Z",
+            "open_issues": 379,
             "owner": "pxb1988",
             "repo": "dex2jar",
-            "stars": 13137
+            "stars": 13137,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -42,12 +57,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":art: Generate selectors for background drawable",
+            "homepage": "https://plugins.jetbrains.com/plugin/7909",
             "id": 40874269,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2015-11-12T15:32:17Z",
+            "open_issues": 0,
             "owner": "importre",
             "repo": "android-selector-intellij-plugin",
-            "stars": 293
+            "stars": 293,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -58,12 +78,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IntelliJ AutoCompletion plugin for maven gradle dependencies",
+            "homepage": null,
             "id": 12949636,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2014-05-24T22:49:52Z",
+            "open_issues": 2,
             "owner": "ligi",
             "repo": "GradleDependenciesHelperPlugin",
-            "stars": 379
+            "stars": 379,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -74,12 +99,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android File Grouping Plugin",
+            "homepage": "http://www.dmytrodanylyk.com/pages/blog/android-file-grouping.html",
             "id": 39215066,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2015-11-14T14:48:01Z",
+            "open_issues": 13,
             "owner": "dmytrodanylyk",
             "repo": "folding-plugin",
-            "stars": 1512
+            "stars": 1512,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -90,12 +120,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Intelij IDEA plugin for displaying a code mini-map similar to the one found in Sublime",
+            "homepage": null,
             "id": 10883743,
             "language": "Kotlin",
+            "license": "BSD-2-Clause",
             "last_commit": "2021-06-15T07:31:43Z",
+            "open_issues": 64,
             "owner": "vektah",
             "repo": "CodeGlance",
-            "stars": 1052
+            "stars": 1052,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -106,12 +141,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Markdown language support for IntelliJ IDEA (abandonned).",
+            "homepage": null,
             "id": 1415684,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2016-05-22T11:04:29Z",
+            "open_issues": 84,
             "owner": "nicoulaj",
             "repo": "idea-markdown",
-            "stars": 593
+            "stars": 593,
+            "topics": [
+              "intellij",
+              "java",
+              "jetbrains",
+              "language-support",
+              "markdown"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -122,12 +168,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Android and Java bytecode viewer",
+            "homepage": null,
             "id": 44109745,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-19T10:01:03Z",
+            "open_issues": 41,
             "owner": "google",
             "repo": "android-classyshark",
-            "stars": 7558
+            "stars": 7558,
+            "topics": [
+              "analysis",
+              "android",
+              "apk",
+              "apk-parser",
+              "classyshark",
+              "dex",
+              "jar",
+              "java",
+              "kotlin",
+              "multidex"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -138,12 +200,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "IntelliJ/AndroidStudio plugin which provides a button to connect your Android device over WiFi to install, run and debug your applications without a USB connected.",
+            "homepage": null,
             "id": 44498352,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2019-05-23T10:17:28Z",
+            "open_issues": 23,
             "owner": "pedrovgs",
             "repo": "AndroidWiFiADB",
-            "stars": 4137
+            "stars": 4137,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -154,12 +221,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CheckStyle plug-in for IntelliJ IDEA",
+            "homepage": "https://plugins.jetbrains.com/plugin/1065-checkstyle-idea",
             "id": 2335594,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T09:41:33Z",
+            "open_issues": 3,
             "owner": "jshiell",
             "repo": "checkstyle-idea",
-            "stars": 918
+            "stars": 918,
+            "topics": [
+              "checkstyle",
+              "inspection",
+              "intellij-plugin",
+              "java",
+              "jetbrains"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -170,12 +248,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android Studio Plugin,Translate English to Chinese. Android Studio 翻译插件,可以将英文翻译为中文.",
+            "homepage": null,
             "id": 58985060,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-06-18T11:57:02Z",
+            "open_issues": 51,
             "owner": "Skykai521",
             "repo": "ECTranslation",
-            "stars": 1862
+            "stars": 1862,
+            "topics": [
+              "android-studio",
+              "plugin",
+              "translation"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -186,12 +273,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a Android Studio/ IntelliJ IDEA plugin to localize your Android app, translate your string resources automactically.",
+            "homepage": "http://lifeofcoding.com/AndroidLocalizationer/",
             "id": 27294912,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2016-04-21T02:21:58Z",
+            "open_issues": 32,
             "owner": "westlinkin",
             "repo": "AndroidLocalizationer",
-            "stars": 823
+            "stars": 823,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -202,12 +294,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Android Studio plug-in for generating ButterKnife injections from selected layout XML.",
+            "homepage": null,
             "id": 15397085,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-02-26T08:49:44Z",
+            "open_issues": 54,
             "owner": "avast",
             "repo": "android-butterknife-zelezny",
-            "stars": 3349
+            "stars": 3349,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -218,12 +315,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android Studio plugin which automatically generates drawable selectors from appropriately named resources.",
+            "homepage": null,
             "id": 12222625,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2016-03-14T08:58:35Z",
+            "open_issues": 14,
             "owner": "inmite",
             "repo": "android-selector-chapek",
-            "stars": 1556
+            "stars": 1556,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -234,12 +336,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "根据Gson库使用的要求,将JSONObject格式的String  解析成实体",
+            "homepage": null,
             "id": 26018955,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-01-28T03:51:32Z",
+            "open_issues": 63,
             "owner": "zzz40500",
             "repo": "GsonFormat",
-            "stars": 3128
+            "stars": 3128,
+            "topics": [
+              "gsonformat",
+              "ide",
+              "jetbrains"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -250,12 +361,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IntelliJ Plugin for Android Parcelable boilerplate code generation.",
+            "homepage": null,
             "id": 7936739,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-02-15T13:02:08Z",
+            "open_issues": 25,
             "owner": "mcharmas",
             "repo": "android-parcelable-intellij-plugin",
-            "stars": 2120
+            "stars": 2120,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -266,12 +382,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A memory leak detection library for Android.",
+            "homepage": "https://square.github.io/leakcanary",
             "id": 34824499,
             "language": "Kotlin",
-            "last_commit": "2026-08-28T14:41:58Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:00:36Z",
+            "open_issues": 131,
             "owner": "square",
             "repo": "leakcanary",
-            "stars": 29987
+            "stars": 29987,
+            "topics": [
+              "android",
+              "java",
+              "kotlin",
+              "kotlin-android",
+              "leak-canary",
+              "leak-trace",
+              "leakcanary",
+              "memory-leak",
+              "outofmemory",
+              "outofmemoryerror"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         }
@@ -288,12 +420,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Google I/O Android App",
+            "homepage": null,
             "id": 18347476,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-05T18:35:51Z",
+            "open_issues": 76,
             "owner": "google",
             "repo": "iosched",
-            "stars": 21645
+            "stars": 21646,
+            "topics": [
+              "android",
+              "architecture",
+              "conference",
+              "coroutines",
+              "kotlin"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -304,12 +447,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A sample audio app for Android",
+            "homepage": null,
             "id": 31929346,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-09T15:17:00Z",
+            "open_issues": 99,
             "owner": "android",
             "repo": "uamp",
-            "stars": 13174
+            "stars": 13174,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -320,12 +468,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Ho Ho Ho",
+            "homepage": "https://santatracker.google.com/",
             "id": 32765638,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2022-06-30T06:38:28Z",
+            "open_issues": 21,
             "owner": "google",
             "repo": "santa-tracker-android",
-            "stars": 2061
+            "stars": 2061,
+            "topics": [
+              "android",
+              "android-wear",
+              "firebase",
+              "google",
+              "santa-tracker"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -336,12 +495,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PocketHub Android App",
+            "homepage": null,
             "id": 2349728,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-06-06T08:03:11Z",
+            "open_issues": 135,
             "owner": "pockethub",
             "repo": "PocketHub",
-            "stars": 9359
+            "stars": 9359,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -352,12 +516,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[Deprecated] The Holo version of my popular Android Talon for Twitter app, 100% open-source",
+            "homepage": "https://github.com/klinker24/talon-for-twitter-android",
             "id": 25601850,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2018-07-04T16:54:05Z",
+            "open_issues": 0,
             "owner": "klinker24",
             "repo": "talon-twitter-holo",
-            "stars": 1651
+            "stars": 1651,
+            "topics": [
+              "android",
+              "java",
+              "twitter"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -368,12 +541,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Taste global original animation",
+            "homepage": null,
             "id": 12924500,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2021-11-18T18:47:27Z",
+            "open_issues": 13,
             "owner": "daimajia",
             "repo": "AnimeTaste",
-            "stars": 1621
+            "stars": 1621,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -384,12 +562,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast Record,Organize,and Share. The android memo app you will deeply love. ❤",
+            "homepage": null,
             "id": 13083053,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2014-07-13T01:12:41Z",
+            "open_issues": 6,
             "owner": "daimajia",
             "repo": "EverMemo",
-            "stars": 797
+            "stars": 797,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -400,12 +583,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android unofficial REST Client of 9GAG.",
+            "homepage": "http://stormzhang.com",
             "id": 18827225,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-04-30T16:00:50Z",
+            "open_issues": 59,
             "owner": "stormzhang",
             "repo": "9GAG",
-            "stars": 2118
+            "stars": 2118,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -416,12 +604,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "小米便签社区开源版（Community edition of XM notepad/MIUI notes)",
+            "homepage": "http://micode.net/forum-38-1.html",
             "id": 3054450,
             "language": "Java",
+            "license": null,
             "last_commit": "2023-03-29T02:56:13Z",
+            "open_issues": 17,
             "owner": "MiCode",
             "repo": "Notes",
-            "stars": 2099
+            "stars": 2099,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -432,12 +625,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Muzei Live Wallpaper for Android",
+            "homepage": "http://muzei.co",
             "id": 16598287,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T00:41:47Z",
+            "open_issues": 39,
             "owner": "muzei",
             "repo": "muzei",
-            "stars": 4940
+            "stars": 4940,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -448,12 +646,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sina Weibo Android Client",
+            "homepage": null,
             "id": 5193009,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2016-08-14T15:31:04Z",
+            "open_issues": 64,
             "owner": "qii",
             "repo": "weiciyuan",
-            "stars": 2598
+            "stars": 2598,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -464,12 +667,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "非官方知乎专栏 - Android",
+            "homepage": null,
             "id": 32923666,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2017-04-17T08:25:14Z",
+            "open_issues": 11,
             "owner": "bxbxbai",
             "repo": "ZhuanLan",
-            "stars": 723
+            "stars": 723,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -480,12 +688,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "eoe的Android客户端源码",
+            "homepage": null,
             "id": 7832859,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2015-10-06T02:34:12Z",
+            "open_issues": 34,
             "owner": "eoecn",
             "repo": "android-app",
-            "stars": 1179
+            "stars": 1179,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -496,12 +709,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A v2ex client on android platform.(deprecated)",
+            "homepage": null,
             "id": 17084683,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2015-04-26T10:15:31Z",
+            "open_issues": 2,
             "owner": "kyze8439690",
             "repo": "v2ex-daily-android",
-            "stars": 466
+            "stars": 466,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -512,12 +730,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tweet Lanes for Android",
+            "homepage": null,
             "id": 8216154,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2018-09-16T19:23:35Z",
+            "open_issues": 52,
             "owner": "chrislacy",
             "repo": "TweetLanes",
-            "stars": 756
+            "stars": 756,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -528,12 +751,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Personal expense manager",
+            "homepage": null,
             "id": 14277656,
             "language": "Java",
+            "license": "GPL-2.0",
             "last_commit": "2019-05-12T20:53:22Z",
+            "open_issues": 108,
             "owner": "mvarnagiris",
             "repo": "financius",
-            "stars": 625
+            "stars": 625,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -544,12 +772,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ZXing (\"Zebra Crossing\") barcode scanning library for Java, Android",
+            "homepage": null,
             "id": 2562751,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T15:35:41Z",
+            "open_issues": 0,
             "owner": "zxing",
             "repo": "zxing",
-            "stars": 34079
+            "stars": 34078,
+            "topics": [
+              "android",
+              "barcode",
+              "barcode-scanner",
+              "datamatrix",
+              "java",
+              "qr-code",
+              "upc",
+              "zxing"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -560,12 +802,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "photup",
+            "homepage": null,
             "id": 7622340,
             "language": "Java",
+            "license": null,
             "last_commit": "2018-01-07T08:51:39Z",
+            "open_issues": 3,
             "owner": "chrisbanes",
             "repo": "photup",
-            "stars": 940
+            "stars": 940,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -576,12 +823,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Official Todo.txt Android app for managing your todo.txt file stored in Dropbox.",
+            "homepage": "http://todotxt.com",
             "id": 665357,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2020-07-16T00:16:04Z",
+            "open_issues": 31,
             "owner": "todotxt",
             "repo": "todo.txt-android",
-            "stars": 1245
+            "stars": 1245,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -592,12 +844,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "scan book's ISBN to get the information of this book",
+            "homepage": "https://fangjie.me",
             "id": 30167550,
             "language": "Java",
+            "license": null,
             "last_commit": "2015-03-12T12:17:59Z",
+            "open_issues": 1,
             "owner": "JayFang1993",
             "repo": "ScanBook",
-            "stars": 290
+            "stars": 290,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -608,12 +865,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an augmented reality attempt",
+            "homepage": null,
             "id": 11075217,
             "language": "Java",
+            "license": null,
             "last_commit": "2024-03-16T06:40:06Z",
+            "open_issues": 8,
             "owner": "tvbarthel",
             "repo": "ChaseWhisplyProject",
-            "stars": 550
+            "stars": 550,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -624,12 +886,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A podcast manager for Android",
+            "homepage": "https://antennapod.org",
             "id": 5244445,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-26T21:01:22Z",
+            "open_issues": 368,
             "owner": "AntennaPod",
             "repo": "AntennaPod",
-            "stars": 8109
+            "stars": 8109,
+            "topics": [
+              "android",
+              "apps",
+              "hacktoberfest",
+              "podcast-manager",
+              "podcasting20"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -640,12 +913,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[DEPRECATED]android相关的干货(文摘，名博，github等等)",
+            "homepage": null,
             "id": 33542464,
             "language": "Java",
+            "license": null,
             "last_commit": "2015-10-10T06:59:43Z",
+            "open_issues": 4,
             "owner": "openproject",
             "repo": "AndroidDigest",
-            "stars": 428
+            "stars": 428,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -656,12 +934,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hacker News client with a focus on reliability and usability.",
+            "homepage": "https://play.google.com/store/apps/details?id=com.manuelmaly.hn",
             "id": 5568881,
             "language": "Java",
+            "license": null,
             "last_commit": "2024-06-02T14:19:36Z",
+            "open_issues": 34,
             "owner": "manmal",
             "repo": "hn-android",
-            "stars": 496
+            "stars": 496,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -672,12 +955,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Global Proxy for Android",
+            "homepage": "https://play.google.com/store/apps/details?id=org.proxydroid",
             "id": 3280827,
             "language": "Kotlin",
+            "license": null,
             "last_commit": "2026-05-12T06:40:47Z",
+            "open_issues": 5,
             "owner": "madeye",
             "repo": "proxydroid",
-            "stars": 2545
+            "stars": 2547,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -688,12 +976,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Android library and includes ActivityFrame, KJHttp, KJBitmap, KJDataBase. KJFrameForAndroid is designed to wrap complexity of the Android native SDK and keep things simple.",
+            "homepage": "https://www.kymjs.com/",
             "id": 20617245,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-17T06:36:33Z",
+            "open_issues": 19,
             "owner": "kymjs",
             "repo": "KJFrameForAndroid",
-            "stars": 1938
+            "stars": 1938,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -704,12 +997,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A light Sina Weibo client for Android",
+            "homepage": "https://black.lighting",
             "id": 23015644,
             "language": "Kotlin",
+            "license": "GPL-3.0",
             "last_commit": "2016-09-11T08:13:07Z",
+            "open_issues": 1162,
             "owner": "PaperAirplane-Dev-Team",
             "repo": "BlackLight",
-            "stars": 871
+            "stars": 871,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -720,12 +1018,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Actor Messaging platform",
+            "homepage": "https://actor.im",
             "id": 37791069,
             "language": "Java",
+            "license": "AGPL-3.0",
             "last_commit": "2021-11-09T04:19:07Z",
+            "open_issues": 321,
             "owner": "actorapp",
             "repo": "actor-platform",
-            "stars": 3256
+            "stars": 3256,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -736,12 +1039,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Android app which provides design news & inspiration as well as being an example of implementing material design.",
+            "homepage": null,
             "id": 45261969,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-04T20:49:31Z",
+            "open_issues": 102,
             "owner": "nickbutcher",
             "repo": "plaid",
-            "stars": 16177
+            "stars": 16177,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -752,12 +1060,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。项目采取的是MVP架构开发，由于还是摸索阶段，可能不是很规范。但基本上应该是这么个套路，至少我个人认为是这样的~恩，就是这样的！",
+            "homepage": null,
             "id": 40877175,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-09-17T06:40:26Z",
+            "open_issues": 41,
             "owner": "chentao0707",
             "repo": "SimplifyReader",
-            "stars": 4544
+            "stars": 4544,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -768,12 +1081,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PHPHub for Android",
+            "homepage": "https://phphub.org/",
             "id": 42855315,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2017-06-26T01:01:30Z",
+            "open_issues": 5,
             "owner": "CycloneAxe",
             "repo": "phphub-android",
-            "stars": 937
+            "stars": 937,
+            "topics": [
+              "android",
+              "dagger2",
+              "nucleus",
+              "phphub",
+              "retrofit",
+              "rxandroid",
+              "rxjava"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -784,12 +1110,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Leisure is an Android App containing Zhihu Daily,Guokr Scientific,XinhuaNet News and Douban Books",
+            "homepage": "http://blog.csdn.net/mummyding/article/details/50266203",
             "id": 46057819,
             "language": "Java",
+            "license": "LGPL-3.0",
             "last_commit": "2018-06-07T13:43:11Z",
+            "open_issues": 6,
             "owner": "MummyDing",
             "repo": "Leisure",
-            "stars": 546
+            "stars": 546,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -800,12 +1131,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bingo是一款IT阅读学习类的开源软件，在不久的将来会拥有丰富的学习内容，推荐您也来用用来看看，在这里您也可以发布好的干货链接文章。",
+            "homepage": "https://fir.im/Bingo",
             "id": 40248738,
             "language": "Java",
+            "license": null,
             "last_commit": "2017-09-01T08:06:30Z",
+            "open_issues": 3,
             "owner": "sunfusheng",
             "repo": "Bingo",
-            "stars": 515
+            "stars": 515,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         }
@@ -822,12 +1158,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+            "homepage": null,
             "id": 21737465,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-21T12:39:13Z",
+            "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500794
+            "stars": 500890,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "lists",
+              "resources",
+              "unicorns"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -838,12 +1185,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Android UI/UX libraries",
+            "homepage": null,
             "id": 28428729,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-06-05T05:39:52Z",
+            "open_issues": 39,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57385
+            "stars": 57392,
+            "topics": [
+              "android",
+              "awesome",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -854,12 +1210,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome frameworks, libraries and software for the Java programming language.",
+            "homepage": null,
             "id": 21648001,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-24T00:59:50Z",
+            "open_issues": 3,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48874
+            "stars": 48878,
+            "topics": [
+              "awesome",
+              "awesome-list"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -870,12 +1234,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ADB Usage Complete / ADB 用法大全",
+            "homepage": "https://mazhuang.org/awesome-adb/",
             "id": 63659739,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-12-18T09:31:14Z",
+            "open_issues": 52,
             "owner": "mzlogin",
             "repo": "awesome-adb",
-            "stars": 12432
+            "stars": 12432,
+            "topics": [
+              "android",
+              "android-adb",
+              "android-debug-bridge"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -886,12 +1259,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Android packages and resources.",
+            "homepage": null,
             "id": 21780562,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-10-27T08:14:07Z",
+            "open_issues": 95,
             "owner": "JStumpp",
             "repo": "awesome-android",
-            "stars": 12302
+            "stars": 12303,
+            "topics": [
+              "android-development",
+              "android-library",
+              "android-tutorial",
+              "awesome",
+              "awesome-list",
+              "awesome-list-awesome-list",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -902,12 +1288,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "android libs from github or other websites",
+            "homepage": "https://www.itcoder.tech/",
             "id": 23948801,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2020-04-21T13:45:25Z",
+            "open_issues": 7,
             "owner": "snowdream",
             "repo": "awesome-android",
-            "stars": 5902
+            "stars": 5902,
+            "topics": [
+              "android",
+              "android-libs"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -918,12 +1312,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of material design libs and res.",
+            "homepage": null,
             "id": 26414854,
             "language": null,
+            "license": null,
             "last_commit": "2018-01-06T10:37:47Z",
+            "open_issues": 15,
             "owner": "lightSky",
             "repo": "Awesome-MaterialDesign",
-            "stars": 5863
+            "stars": 5863,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -934,12 +1333,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is an alphabetical list of libraries for Android development, the majority being actively maintained.",
+            "homepage": "https://twitter.com/wasabeef_jp",
             "id": 25873041,
             "language": null,
+            "license": null,
             "last_commit": "2023-08-29T05:35:31Z",
+            "open_issues": 64,
             "owner": "wasabeef",
             "repo": "awesome-android-libraries",
-            "stars": 5528
+            "stars": 5528,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -950,12 +1354,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 46809419,
             "language": null,
+            "license": null,
             "last_commit": "2016-03-02T09:00:38Z",
+            "open_issues": 0,
             "owner": "liaohuqiu",
             "repo": "android-dynamic-load-awesome",
-            "stars": 316
+            "stars": 316,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         }
@@ -972,12 +1381,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android Transition animations explanation with examples.",
+            "homepage": null,
             "id": 31865176,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2019-04-02T15:42:38Z",
+            "open_issues": 20,
             "owner": "lgvalle",
             "repo": "Material-Animations",
-            "stars": 13541
+            "stars": 13541,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -988,12 +1402,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cute view animation collection.",
+            "homepage": null,
             "id": 21113349,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2021-08-18T23:15:07Z",
+            "open_issues": 67,
             "owner": "daimajia",
             "repo": "AndroidViewAnimations",
-            "stars": 12443
+            "stars": 12443,
+            "topics": [
+              "android",
+              "animation",
+              "easing-functions"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -1004,12 +1427,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An application demoing meaningful motion on Android",
+            "homepage": "https://medium.com/ribot-labs/exploring-meaningful-motion-on-android-1cd95a4bc61d",
             "id": 46282096,
             "language": "Java",
+            "license": null,
             "last_commit": "2016-05-26T12:33:05Z",
+            "open_issues": 9,
             "owner": "hitherejoe",
             "repo": "animate",
-            "stars": 3071
+            "stars": 3071,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -1020,12 +1448,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":octocat: A great list of open sourced UI Motion Library produced by Animatious Group.",
+            "homepage": "http://anius.io/",
             "id": 46199876,
             "language": null,
+            "license": "MIT",
             "last_commit": "2016-03-13T03:18:15Z",
+            "open_issues": 1,
             "owner": "Animatious",
             "repo": "awesome-animation",
-            "stars": 1676
+            "stars": 1676,
+            "topics": [
+              "animation",
+              "ios-animation"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         }
@@ -1042,12 +1478,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a library with components of Android L to you use in android 2.2",
+            "homepage": null,
             "id": 24628923,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-28T17:32:11Z",
+            "open_issues": 253,
             "owner": "navasmdc",
             "repo": "MaterialDesignLibrary",
-            "stars": 8916
+            "stars": 8916,
+            "topics": [
+              "android",
+              "material-design"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -1058,12 +1502,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Material Design 中文版 ( 2015 年 8 月更新)",
+            "homepage": "http://wiki.jikexueyuan.com/project/material-design/",
             "id": 40793985,
             "language": null,
+            "license": null,
             "last_commit": "2019-04-03T15:55:32Z",
+            "open_issues": 4,
             "owner": "1sters",
             "repo": "material_design_zh_2",
-            "stars": 1174
+            "stars": 1174,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         }
@@ -1080,12 +1529,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌟 Curated design resources from all over the world.",
+            "homepage": null,
             "id": 63935685,
             "language": null,
+            "license": null,
             "last_commit": "2024-07-04T18:17:39Z",
+            "open_issues": 61,
             "owner": "gztchan",
             "repo": "awesome-design",
-            "stars": 17460
+            "stars": 17461,
+            "topics": [
+              "adobe",
+              "awesome",
+              "creative",
+              "curated",
+              "design",
+              "design-system",
+              "designer-news",
+              "font",
+              "graphics",
+              "podcast",
+              "sketch",
+              "ui",
+              "ux",
+              "vector"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         }
@@ -1102,12 +1571,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A categorized collection of Android Open Source Projects,  More powerful web version:",
+            "homepage": "https://p.codekk.com/",
             "id": 15653276,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-03-25T01:04:16Z",
+            "open_issues": 31,
             "owner": "Trinea",
             "repo": "android-open-project",
-            "stars": 31812
+            "stars": 31812,
+            "topics": [
+              "android",
+              "open-source-project"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         }
@@ -1124,12 +1601,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Design patterns implemented in Java",
+            "homepage": "https://java-design-patterns.com",
             "id": 22790488,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T04:52:07Z",
+            "open_issues": 135,
             "owner": "iluwatar",
             "repo": "java-design-patterns",
-            "stars": 94633
+            "stars": 94632,
+            "topics": [
+              "awesome-list",
+              "design-patterns",
+              "hacktoberfest",
+              "java",
+              "principles",
+              "snippets",
+              "snippets-collection",
+              "snippets-library"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -1140,12 +1631,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android源码设计模式分析项目",
+            "homepage": null,
             "id": 31453354,
             "language": "Java",
+            "license": null,
             "last_commit": "2023-09-26T09:35:21Z",
+            "open_issues": 0,
             "owner": "simple-android-framework-exchange",
             "repo": "android_design_patterns_analysis",
-            "stars": 2926
+            "stars": 2926,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         }
@@ -1162,12 +1658,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Do's and Don'ts for Android development, by Futurice developers",
+            "homepage": null,
             "id": 22374063,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2021-10-01T07:31:17Z",
+            "open_issues": 30,
             "owner": "futurice",
             "repo": "android-best-practices",
-            "stars": 20437
+            "stars": 20437,
+            "topics": [
+              "android",
+              "android-development",
+              "best-practices"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -1178,12 +1683,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android study notes.",
+            "homepage": "http://charon.top/AndroidNote/",
             "id": 15064456,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-26T15:12:38Z",
+            "open_issues": 4,
             "owner": "CharonChui",
             "repo": "AndroidNote",
-            "stars": 3933
+            "stars": 3933,
+            "topics": [
+              "android",
+              "source-code",
+              "study-notes"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -1194,12 +1708,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An awesome list of tips for Android.",
+            "homepage": null,
             "id": 42233871,
             "language": "Java",
+            "license": null,
             "last_commit": "2018-12-27T08:01:50Z",
+            "open_issues": 2,
             "owner": "tangqi92",
             "repo": "Android-Tips",
-            "stars": 3215
+            "stars": 3215,
+            "topics": [
+              "android-activity",
+              "android-aidl",
+              "android-apk",
+              "android-async-http",
+              "android-fragments",
+              "android-gradle",
+              "android-intent",
+              "android-studio",
+              "android-view",
+              "gradle-android"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -1210,12 +1740,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android最佳实践示例",
+            "homepage": null,
             "id": 41618273,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2019-01-08T07:16:20Z",
+            "open_issues": 0,
             "owner": "kaleai",
             "repo": "Android-Best-Practices",
-            "stars": 3127
+            "stars": 3127,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -1226,12 +1761,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android最佳实践示例",
+            "homepage": null,
             "id": 41618273,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2019-01-08T07:16:20Z",
+            "open_issues": 0,
             "owner": "kaleai",
             "repo": "Android-Best-Practices",
-            "stars": 3127
+            "stars": 3127,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -1242,12 +1782,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "some code tips for android 💯",
+            "homepage": null,
             "id": 43930264,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2022-03-02T01:24:41Z",
+            "open_issues": 2,
             "owner": "jiang111",
             "repo": "awesome-android-tips",
-            "stars": 2568
+            "stars": 2568,
+            "topics": [
+              "android",
+              "awesome",
+              "tips"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -1258,12 +1807,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The android tools           自己整理的常用的工具类   ",
+            "homepage": null,
             "id": 48537297,
             "language": "Java",
+            "license": null,
             "last_commit": "2025-07-02T05:24:22Z",
+            "open_issues": 0,
             "owner": "l123456789jy",
             "repo": "Lazy",
-            "stars": 2167
+            "stars": 2167,
+            "topics": [
+              "android",
+              "androidutils",
+              "ioutil",
+              "sizeutils",
+              "timeutils",
+              "toastutils"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -1274,12 +1835,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android 一些重要知识点解析整理",
+            "homepage": null,
             "id": 23868459,
             "language": null,
+            "license": null,
             "last_commit": "2021-09-16T16:24:52Z",
+            "open_issues": 6,
             "owner": "FX-Max",
             "repo": "Point-of-Android",
-            "stars": 1594
+            "stars": 1594,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         }
@@ -1296,12 +1862,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enjoy Learning.",
+            "homepage": null,
             "id": 60711512,
             "language": null,
+            "license": null,
             "last_commit": "2024-08-13T17:24:18Z",
+            "open_issues": 93,
             "owner": "francistao",
             "repo": "LearningNotes",
-            "stars": 13135
+            "stars": 13134,
+            "topics": [
+              "android",
+              "java",
+              "jvm"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -1312,12 +1887,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The top Internet companies android interview questions and answers.",
+            "homepage": "http://jackywang.tech/AndroidInterview-Q-A/",
             "id": 63571529,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-07-18T06:23:48Z",
+            "open_issues": 4,
             "owner": "JackyAndroid",
             "repo": "AndroidInterview-Q-A",
-            "stars": 8006
+            "stars": 8006,
+            "topics": [
+              "android",
+              "interview",
+              "interview-questions"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         }
@@ -1334,12 +1918,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":fire: Android developers should collect the following utils(updating).",
+            "homepage": "https://blankj.com/2016/07/31/android-utils-code/",
             "id": 64558143,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-15T10:38:10Z",
+            "open_issues": 328,
             "owner": "Blankj",
             "repo": "AndroidUtilCode",
-            "stars": 33631
+            "stars": 33630,
+            "topics": [
+              "android",
+              "androidx",
+              "app",
+              "bar",
+              "cache",
+              "encode",
+              "encrypt",
+              "eventbus",
+              "file",
+              "fragment",
+              "log",
+              "network",
+              "permission",
+              "reflect",
+              "regex",
+              "snackbar",
+              "spannable-string",
+              "thread-pool",
+              "toast",
+              "utils"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -1350,12 +1960,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "自己总结的Android开源项目及库 ",
+            "homepage": null,
             "id": 27805683,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2019-08-19T15:36:54Z",
+            "open_issues": 1,
             "owner": "Tim9Liu9",
             "repo": "TimLiu-Android",
-            "stars": 3053
+            "stars": 3053,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -1366,12 +1981,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android 开发中的日常积累",
+            "homepage": null,
             "id": 34844168,
             "language": "Java",
+            "license": null,
             "last_commit": "2018-12-29T10:47:13Z",
+            "open_issues": 1,
             "owner": "lizhangqu",
             "repo": "CoreLink",
-            "stars": 2720
+            "stars": 2720,
+            "topics": [
+              "android",
+              "java"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -1382,12 +2005,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pantheon is a microservice Service Registry Center ，分布式微服务注册中心，使用了很多开源项目的架构思路 ",
+            "homepage": null,
             "id": 56731653,
             "language": "Java",
+            "license": null,
             "last_commit": "2022-03-09T06:39:55Z",
+            "open_issues": 2,
             "owner": "ProgrammerAnthony",
             "repo": "Pantheon",
-            "stars": 2340
+            "stars": 2340,
+            "topics": [
+              "microservice"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -1398,12 +2028,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The repository is Android development favorites, It used to collect the knowledge of Android Development.",
+            "homepage": null,
             "id": 46763179,
             "language": null,
+            "license": null,
             "last_commit": "2019-10-09T08:34:15Z",
+            "open_issues": 1,
             "owner": "ruijun",
             "repo": "Android-Dev-Favorites",
-            "stars": 1533
+            "stars": 1533,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -1414,12 +2049,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android架构合集",
+            "homepage": null,
             "id": 48937237,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2019-03-05T12:00:19Z",
+            "open_issues": 4,
             "owner": "Juude",
             "repo": "Awesome-Android-Architecture",
-            "stars": 1513
+            "stars": 1513,
+            "topics": [
+              "android-architecture"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -1430,12 +2072,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AndroidCat安卓书签导航集合",
+            "homepage": "https://www.xcube.cn",
             "id": 41531229,
             "language": null,
+            "license": null,
             "last_commit": "2016-05-05T06:55:36Z",
+            "open_issues": 3,
             "owner": "ColorfulCat",
             "repo": "AndroidGuide",
-            "stars": 988
+            "stars": 988,
+            "topics": [
+              "android"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         },
@@ -1446,12 +2095,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collections of tips in Android developing.Android开发总结。我的博客:",
+            "homepage": "http://www.johntsai.work",
             "id": 44042532,
             "language": "Java",
+            "license": null,
             "last_commit": "2022-08-18T13:13:14Z",
+            "open_issues": 1,
             "owner": "johncaijing",
             "repo": "AndroidTips",
-            "stars": 709
+            "stars": 709,
+            "topics": [
+              "android",
+              "android-application",
+              "android-course",
+              "android-development",
+              "android-gradle",
+              "android-studio",
+              "android-tips",
+              "android-view"
+            ]
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
         }
@@ -1460,15 +2123,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:43:51.435Z",
+    "last_updated": "2026-08-29T04:14:36.561Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Some Android learning materials, hoping to help you learn Android development.",
+      "homepage": null,
       "id": 33390523,
       "language": "Java",
+      "license": null,
       "last_commit": "2024-01-15T03:03:28Z",
+      "open_issues": 9,
       "owner": "Freelander",
       "repo": "Android_Data",
-      "stars": 8945
+      "stars": 8945,
+      "topics": [
+        "android",
+        "android-library",
+        "android-studio",
+        "android-tools",
+        "animations",
+        "apps",
+        "awesome",
+        "google-android",
+        "material-design",
+        "open-source-project"
+      ]
     },
     "original_repository_sha": "df3d108a95de1a6b7198fd14fd7234b62af19b16",
     "enhanced_repository": "enhansome/enhansome-Android_Data",
