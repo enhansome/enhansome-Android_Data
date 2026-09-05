@@ -57,13 +57,13 @@
 
 ## 开发环境/工具
 
-(附上: 由 [@脉脉不得语](http://weibo.com/234959219) 收集维护超多开发工具下载地址 [AndroidDevTools](https://github.com/inferjay/AndroidDevTools) ⭐ 8,059 | 🐛 6 | 📅 2026-09-01, 后五个工具资料在 [stormzhang](http://stormzhang.com/) 博客中找到的,[地址](http://stormzhang.com/android/2015/05/26/android-tools/))
+(附上: 由 [@脉脉不得语](http://weibo.com/234959219) 收集维护超多开发工具下载地址 [AndroidDevTools](https://github.com/inferjay/AndroidDevTools) ⭐ 8,061 | 🐛 6 | 📅 2026-09-01, 后五个工具资料在 [stormzhang](http://stormzhang.com/) 博客中找到的,[地址](http://stormzhang.com/android/2015/05/26/android-tools/))
 
 | 环境/工具                                                                                                                              | 简述                                                                                                                                                                                                                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Android Studio](http://developer.android.com/sdk/index.html)                                                                      | 这个开发工具上手需要一定的时间, 自从 Google 推出1.0正式版, 这个工具一直火爆, 谷歌也不停更新维护, 性能逐渐稳定提高, 目前 github 上面的绝大多数开源项目都是使用 Android Studio 工具, 这就是开发 Android 必须掌握使用的工具, 如果还在使用 Eclipse 开发 Android 的童鞋们, 赶紧换成 AS 开发吧                                                                                 |
 | [Genymotion](https://www.genymotion.com/#!/download)                                                                               | 强大好用高性能的 Android 模拟器, 自带的那个模拟器简直不忍直视, 启动超慢的, 跟这个没法比, 无论你是用 Eclipse 还是 Android Studio 里面都有 Genymotion 插件                                                                                                                                                               |
-| [jadx](https://github.com/skylot/jadx) ⭐ 50,335 \| 🐛 444 \| 🌐 Java \| 📅 2026-09-02                                              | 一个 Android 反编译神器, 不同于常见的 [dex2jar](https://github.com/pxb1988/dex2jar) ⭐ 13,135 \| 🐛 379 \| 🌐 Java \| 📅 2024-07-21, 这个反编译器生成代码的 try/catch 次数更少, View也不再是数字 id 了, 可读性更高                                                                                             |
+| [jadx](https://github.com/skylot/jadx) ⭐ 50,349 \| 🐛 444 \| 🌐 Java \| 📅 2026-09-02                                              | 一个 Android 反编译神器, 不同于常见的 [dex2jar](https://github.com/pxb1988/dex2jar) ⭐ 13,138 \| 🐛 379 \| 🌐 Java \| 📅 2024-07-21, 这个反编译器生成代码的 try/catch 次数更少, View也不再是数字 id 了, 可读性更高                                                                                             |
 | [android-selector](https://github.com/importre/android-selector-intellij-plugin) ⭐ 293 \| 🐛 0 \| 🌐 Java \| 📅 2015-11-12         | 可以根据指定颜色生成 Selector Drawable 的插件                                                                                                                                                                                                                                      |
 | [GradleDependenciesHelperPlugin](https://github.com/ligi/GradleDependenciesHelperPlugin) ⭐ 379 \| 🐛 2 \| 🌐 Java \| 📅 2014-05-24 | Gradle 依赖自动补全插件                                                                                                                                                                                                                                                       |
 | [Smali Viewer](http://blog.avlyun.com/show/%E3%80%8Asv%E7%94%A8%E6%88%B7%E6%8C%87%E5%8D%97%E3%80%8B/)                              | sv 是一款免费 APK 分析软件, 对你感兴趣的 APP 分析看看它们都用了些什么, 对你学习借鉴有一定帮助                                                                                                                                                                                                               |
@@ -125,7 +125,7 @@
 | [9GAG](https://github.com/stormzhang/9GAG) ⭐ 2,117 \| 🐛 59 \| 🌐 Java \| 📅 2026-04-30                                    | 开发者是 stormzhang 博主,这个开源项目教你使用 Studio, Gradle 以及一些流行的开源库快速开发一个不错的 Android 客户端                                                                                                                                                    |
 | [MIUI 便签](https://github.com/MiCode/Notes) ⭐ 2,102 \| 🐛 17 \| 🌐 Java \| 📅 2023-03-29                                    | MiCode 便签是小米便签的社区开源版, 由 MIUI 团队（ww\.miui.com）发起并贡献第一批代码, 遵循 NOTICE 文件所描述的开源协议                                                                                                                                                   |
 | [贝壳单词](https://github.com/drakeet/Seashell-app)                                                                            | 开发者是许晓峰(Drakeet), 获得豌豆荚设计奖, 这个是初期版本, 新版没有开源, 但是在博主的博客当中将一些新版的内容都剥离出来写成了文章,可以去学习一下                                                                                                                                               |
-| [Muzei Live Wallpaper](https://github.com/romannurik/muzei) ⭐ 4,944 \| 🐛 40 \| 🌐 Kotlin \| 📅 2026-09-02                 | 开发者是 Ian Lake , 就职于 Google, 这款是定时更换桌面精美壁纸 App                                                                                                                                                                                   |
+| [Muzei Live Wallpaper](https://github.com/romannurik/muzei) ⭐ 4,945 \| 🐛 40 \| 🌐 Kotlin \| 📅 2026-09-02                 | 开发者是 Ian Lake , 就职于 Google, 这款是定时更换桌面精美壁纸 App                                                                                                                                                                                   |
 | [四次元-新浪微博客户端](https://github.com/qii/weiciyuan) ⭐ 2,597 \| 🐛 64 \| 🌐 Java \| 📅 2016-08-14                               | 一个仿新浪微博客户端 App, 基本都含有新浪微博的功能, 开源团队写了一份 wiki 文档, 可以去学习一下该 App 是如何实现的                                                                                                                                                             |
 | [知乎专栏](https://github.com/bxbxbai/ZhuanLan) ⭐ 721 \| 🐛 11 \| 🌐 Java \| 📅 2017-04-17                                     | 开发者是白瓦力, 项目结构清晰, 代码分包合理, 很棒. 很适合新手去学习如何搭建一个 App 结构, 熟悉开发一个完整 App 的流程                                                                                                                                                            |
 | [eoe 客户端](https://github.com/eoecn/android-app) ⭐ 1,178 \| 🐛 34 \| 🌐 Java \| 📅 2015-10-06                               | eoe 社区Android客户端                                                                                                                                                                                                                |
@@ -134,12 +134,12 @@
 | [Tweet Lanes](https://github.com/chrislacy/TweetLanes) ⭐ 756 \| 🐛 52 \| 🌐 Java \| 📅 2018-09-16                          | 功能比较完整的 Twitter 客户端                                                                                                                                                                                                             |
 | [Financius](https://github.com/mvarnagiris/financius-public) ⭐ 625 \| 🐛 108 \| 🌐 Java \| 📅 2019-05-12                   | 一款简单易用个人理财 Android 程序                                                                                                                                                                                                           |
 | [Coding](https://coding.net/u/coding/p/Coding-Android/git)                                                                 | Coding 类似于 github 一个代码托管平台, 这个是 Coding 的 Android 版客户端                                                                                                                                                                           |
-| [ZXing](https://github.com/zxing/zxing) ⭐ 34,083 \| 🐛 0 \| 🌐 Java \| 📅 2026-09-01                                       | 二维码扫描工具,市场上许多应用的二维码扫描工具都是从这个修改得到的                                                                                                                                                                                               |
+| [ZXing](https://github.com/zxing/zxing) ⭐ 34,082 \| 🐛 0 \| 🌐 Java \| 📅 2026-09-01                                       | 二维码扫描工具,市场上许多应用的二维码扫描工具都是从这个修改得到的                                                                                                                                                                                               |
 | [photup](https://github.com/chrisbanes/photup) ⭐ 940 \| 🐛 3 \| 🌐 Java \| 📅 2018-01-07                                   | 编辑机批量上传照片到 facebook 上,代码分包合理,很棒,不过这个项目依赖的开源项目比较多, 比较难编译                                                                                                                                                                         |
 | [todo.txt-android](https://github.com/ginatrapani/todo.txt-android) ⚠️ Archived                                            | todo.txt 官方 Android 应用, 一个极简的将待办事件记录在 .txt 文件中                                                                                                                                                                                  |
 | [扫扫图书](https://github.com/JayFang1993/ScanBook) ⭐ 290 \| 🐛 1 \| 🌐 Java \| 📅 2015-03-12                                  | 一个让你懂得如何去选择一本书的 APP, 具有扫描搜索查询图书的信息功能                                                                                                                                                                                            |
 | [ChaseWhisplyProject](https://github.com/tvbarthel/ChaseWhisplyProject) ⭐ 550 \| 🐛 8 \| 🌐 Java \| 📅 2024-03-16          | 开启摄像头在你所在位置寻找鬼魂, 进行打鬼游戏                                                                                                                                                                                                         |
-| [AntennaPod](https://github.com/AntennaPod/AntennaPod) ⭐ 8,126 \| 🐛 372 \| 🌐 Java \| 📅 2026-09-04                       | AntennaPod 是一个自由, 开源的播客客户端, 支持 Atom 和 RSS Feed                                                                                                                                                                                  |
+| [AntennaPod](https://github.com/AntennaPod/AntennaPod) ⭐ 8,128 \| 🐛 366 \| 🌐 Java \| 📅 2026-09-05                       | AntennaPod 是一个自由, 开源的播客客户端, 支持 Atom 和 RSS Feed                                                                                                                                                                                  |
 | [干柴](https://github.com/openproject/AndroidDigest) ⭐ 428 \| 🐛 4 \| 🌐 Java \| 📅 2015-10-10                               | 开发者是冯建, 一个专注收集 android 相关干货(文摘,名博,github等等)资源 App                                                                                                                                                                               |
 | [Hacker News](https://github.com/manmal/hn-android) ⭐ 497 \| 🐛 34 \| 🌐 Java \| 📅 2024-06-02                             | 一个查看黑客新闻报道和评论的 App                                                                                                                                                                                                              |
 | [proxydroid](https://github.com/madeye/proxydroid) ⭐ 2,549 \| 🐛 5 \| 🌐 Kotlin \| 📅 2026-05-12                           | ProxyDroid 是一个帮助你在你的 Android 设备上设置代理 (HTTP / SOCKS4 / SOCKS5)                                                                                                                                                                   |
@@ -175,11 +175,11 @@
 
 ## Awesome 系列
 
-* [awesome 系列之终极版](https://github.com/sindresorhus/awesome) ⭐ 502,840 | 🐛 106 | 📅 2026-09-02
-* [awesome\_android\_UI](https://github.com/wasabeef/awesome-android-ui) ⭐ 57,455 | 🐛 39 | 📅 2026-06-05
-* [awesome\_java](https://github.com/akullpp/awesome-java) ⭐ 48,928 | 🐛 7 | 📅 2026-08-24
-* [awesome-adb](https://github.com/mzlogin/awesome-adb) ⭐ 12,435 | 🐛 52 | 📅 2024-12-18
-* [awesome\_android(2)](https://github.com/JStumpp/awesome-android) ⭐ 12,309 | 🐛 96 | 📅 2025-10-27
+* [awesome 系列之终极版](https://github.com/sindresorhus/awesome) ⭐ 503,124 | 🐛 106 | 📅 2026-09-02
+* [awesome\_android\_UI](https://github.com/wasabeef/awesome-android-ui) ⭐ 57,465 | 🐛 39 | 📅 2026-06-05
+* [awesome\_java](https://github.com/akullpp/awesome-java) ⭐ 48,929 | 🐛 8 | 📅 2026-08-24
+* [awesome-adb](https://github.com/mzlogin/awesome-adb) ⭐ 12,436 | 🐛 52 | 📅 2024-12-18
+* [awesome\_android(2)](https://github.com/JStumpp/awesome-android) ⭐ 12,310 | 🐛 96 | 📅 2025-10-27
 * [awesome android(1)](https://github.com/snowdream/awesome-android) ⚠️ Archived
 * [awesome\_materialdesign](https://github.com/lightSky/Awesome-MaterialDesign) ⭐ 5,862 | 🐛 15 | 📅 2018-01-06
 * [awesome\_android\_libraries](https://github.com/wasabeef/awesome-android-libraries) ⭐ 5,529 | 🐛 64 | 📅 2023-08-29
@@ -201,7 +201,7 @@
 
 ## 素材
 
-* [awesome-design](https://github.com/gztchan/awesome-design/) ⭐ 17,489 | 🐛 61 | 📅 2024-07-04
+* [awesome-design](https://github.com/gztchan/awesome-design/) ⭐ 17,493 | 🐛 61 | 📅 2024-07-04
 * [常用色彩搭配表](http://tool.c7sky.com/webcolor/)
 * [ColorHunt-色彩搭配](http://www.colorhunt.co/)
 * [在线 Material Design 界面调色板](http://www.materialpalette.com/)
@@ -222,14 +222,14 @@
 
 ## 设计模式
 
-* [java-design-patterns](https://github.com/iluwatar/java-design-patterns#model-view-presenter) ⭐ 94,641 | 🐛 128 | 🌐 Java | 📅 2026-08-31
+* [java-design-patterns](https://github.com/iluwatar/java-design-patterns#model-view-presenter) ⭐ 94,652 | 🐛 128 | 🌐 Java | 📅 2026-08-31
 * [Android源码设计模式分析项目](https://github.com/simple-android-framework-exchange/android_design_patterns_analysis) ⭐ 2,926 | 🐛 0 | 🌐 Java | 📅 2023-09-26
 * [Java之美\[从菜鸟到高手演变\]之设计模式](http://blog.csdn.net/zhangerqing/article/details/8194653)
 
 ## 实践篇
 
-* [Android 开发最佳实践](https://github.com/futurice/android-best-practices/blob/master/translations/Chinese/README.cn.md) ⭐ 20,437 | 🐛 30 | 📅 2021-10-01
-* [AndroidNote](https://github.com/CharonChui/AndroidNote) ⭐ 3,935 | 🐛 4 | 📅 2026-08-29
+* [Android 开发最佳实践](https://github.com/futurice/android-best-practices/blob/master/translations/Chinese/README.cn.md) ⭐ 20,436 | 🐛 30 | 📅 2021-10-01
+* [AndroidNote](https://github.com/CharonChui/AndroidNote) ⭐ 3,935 | 🐛 4 | 📅 2026-09-05
 * [Android-Tips](https://github.com/tangqi92/Android-Tips) ⭐ 3,214 | 🐛 2 | 🌐 Java | 📅 2018-12-27
 * [Java 反射最佳实践](https://github.com/tianzhijiexian/Android-Best-Practices/blob/master/2015.9/reflect/reflect.md) ⭐ 3,126 | 🐛 0 | 📅 2019-01-08
 * [Adapter 优化方案的探索](https://github.com/tianzhijiexian/Android-Best-Practices/blob/master/2015.10/adapter/adapter.md) ⭐ 3,126 | 🐛 0 | 📅 2019-01-08
@@ -261,8 +261,8 @@
 
 ## 面试
 
-* [LearningNotes](https://github.com/GeniusVJR/LearningNotes) ⭐ 13,135 | 🐛 93 | 📅 2024-08-13 (非常详细的面试资料, 涉及 Android, Java, 设计模式, 算法等)
-* [国内一线互联网公司内部面试题库](https://github.com/JackyAndroid/AndroidInterview-Q-A) ⭐ 8,006 | 🐛 4 | 🌐 JavaScript | 📅 2023-07-18
+* [LearningNotes](https://github.com/GeniusVJR/LearningNotes) ⭐ 13,136 | 🐛 93 | 📅 2024-08-13 (非常详细的面试资料, 涉及 Android, Java, 设计模式, 算法等)
+* [国内一线互联网公司内部面试题库](https://github.com/JackyAndroid/AndroidInterview-Q-A) ⭐ 8,005 | 🐛 4 | 🌐 JavaScript | 📅 2023-07-18
 * [80% 以上简历都是不合格的](http://j.codekk.com/blogs/detail/5705bcdf4a38205862ef4770)
 * [推荐两个技术简历模板](http://j.codekk.com/blogs/detail/5705bcdf4a38205862ef476f)
 * [关于程序员求职简历](https://mdluo.github.io/blog/about-resume/)
@@ -278,7 +278,7 @@
 * [ProGit 中文版](https://git-scm.com/book/zh/v2)
 * [廖雪峰的 Git 教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 * [Git 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
-* [git-tips](https://github.com/git-tips/tips) ⭐ 21,721 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-10(Git 命令集合)
+* [git-tips](https://github.com/git-tips/tips) ⭐ 21,720 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-10(Git 命令集合)
 
 ## 文档
 
@@ -320,7 +320,7 @@
 
 ## 贡献者
 
-点击[该链接](https://github.com/Freelander/Android_Data/graphs/contributors) ⭐ 8,946 | 🐛 9 | 🌐 Java | 📅 2024-01-15查看该项目所有贡献者
+点击[该链接](https://github.com/Freelander/Android_Data/graphs/contributors) ⭐ 8,945 | 🐛 9 | 🌐 Java | 📅 2024-01-15查看该项目所有贡献者
 
 ## License
 
@@ -328,4 +328,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
