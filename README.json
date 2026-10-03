@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "jadx",
-          "description": null,
+          "description": "skylot/jadx",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 455,
             "owner": "skylot",
             "repo": "jadx",
-            "stars": 50706,
+            "stars": 50717,
             "topics": [
               "android",
               "decompiler",
@@ -177,7 +177,7 @@
             "open_issues": 41,
             "owner": "google",
             "repo": "android-classyshark",
-            "stars": 7554,
+            "stars": 7553,
             "topics": [
               "analysis",
               "android",
@@ -387,11 +387,11 @@
             "id": 34824499,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T11:07:27Z",
-            "open_issues": 129,
+            "last_commit": "2026-10-02T16:19:05Z",
+            "open_issues": 130,
             "owner": "square",
             "repo": "leakcanary",
-            "stars": 30000,
+            "stars": 30001,
             "topics": [
               "android",
               "java",
@@ -429,7 +429,7 @@
             "open_issues": 76,
             "owner": "google",
             "repo": "iosched",
-            "stars": 21637,
+            "stars": 21634,
             "topics": [
               "android",
               "architecture",
@@ -456,7 +456,7 @@
             "open_issues": 99,
             "owner": "android",
             "repo": "uamp",
-            "stars": 13169,
+            "stars": 13168,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
@@ -634,7 +634,7 @@
             "open_issues": 40,
             "owner": "muzei",
             "repo": "muzei",
-            "stars": 4952,
+            "stars": 4951,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
@@ -892,10 +892,10 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-10-02T06:30:24Z",
-            "open_issues": 377,
+            "open_issues": 378,
             "owner": "AntennaPod",
             "repo": "AntennaPod",
-            "stars": 8199,
+            "stars": 8198,
             "topics": [
               "android",
               "apps",
@@ -963,7 +963,7 @@
             "open_issues": 5,
             "owner": "madeye",
             "repo": "proxydroid",
-            "stars": 2559,
+            "stars": 2558,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
@@ -1047,7 +1047,7 @@
             "open_issues": 102,
             "owner": "nickbutcher",
             "repo": "plaid",
-            "stars": 16173,
+            "stars": 16172,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
@@ -1068,7 +1068,7 @@
             "open_issues": 41,
             "owner": "chentao0707",
             "repo": "SimplifyReader",
-            "stars": 4538,
+            "stars": 4537,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
@@ -1153,7 +1153,7 @@
         {
           "node_type": "item",
           "title": "awesome 系列之终极版",
-          "description": null,
+          "description": "sindresorhus/awesome",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1166,7 +1166,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 513481,
+            "stars": 513792,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1180,7 +1180,7 @@
         {
           "node_type": "item",
           "title": "awesome_android_UI",
-          "description": null,
+          "description": "wasabeef/awesome-android-ui",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1193,7 +1193,7 @@
             "open_issues": 41,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57799,
+            "stars": 57805,
             "topics": [
               "android",
               "awesome",
@@ -1205,7 +1205,7 @@
         {
           "node_type": "item",
           "title": "awesome_java",
-          "description": null,
+          "description": "akullpp/awesome-java",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1218,7 +1218,7 @@
             "open_issues": 10,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 49139,
+            "stars": 49144,
             "topics": [
               "awesome",
               "awesome-list"
@@ -1229,7 +1229,7 @@
         {
           "node_type": "item",
           "title": "awesome-adb",
-          "description": null,
+          "description": "mzlogin/awesome-adb",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1242,7 +1242,7 @@
             "open_issues": 52,
             "owner": "mzlogin",
             "repo": "awesome-adb",
-            "stars": 12466,
+            "stars": 12469,
             "topics": [
               "android",
               "android-adb",
@@ -1254,7 +1254,7 @@
         {
           "node_type": "item",
           "title": "awesome_android(2)",
-          "description": null,
+          "description": "JStumpp/awesome-android",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1267,7 +1267,7 @@
             "open_issues": 100,
             "owner": "JStumpp",
             "repo": "awesome-android",
-            "stars": 12369,
+            "stars": 12368,
             "topics": [
               "android-development",
               "android-library",
@@ -1283,7 +1283,7 @@
         {
           "node_type": "item",
           "title": "awesome android(1)",
-          "description": null,
+          "description": "snowdream/awesome-android",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1307,7 +1307,7 @@
         {
           "node_type": "item",
           "title": "awesome_materialdesign",
-          "description": null,
+          "description": "lightSky/Awesome-MaterialDesign",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1320,7 +1320,7 @@
             "open_issues": 15,
             "owner": "lightSky",
             "repo": "Awesome-MaterialDesign",
-            "stars": 5857,
+            "stars": 5856,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
@@ -1328,7 +1328,7 @@
         {
           "node_type": "item",
           "title": "awesome_android_libraries",
-          "description": null,
+          "description": "wasabeef/awesome-android-libraries",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1349,7 +1349,7 @@
         {
           "node_type": "item",
           "title": "android-dynamic-load-awesome",
-          "description": null,
+          "description": "liaohuqiu/android-dynamic-load-awesome",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1376,7 +1376,7 @@
         {
           "node_type": "item",
           "title": "Material-Animations",
-          "description": null,
+          "description": "lgvalle/Material-Animations",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1389,7 +1389,7 @@
             "open_issues": 21,
             "owner": "lgvalle",
             "repo": "Material-Animations",
-            "stars": 13534,
+            "stars": 13533,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
@@ -1397,7 +1397,7 @@
         {
           "node_type": "item",
           "title": "AndroidViewAnimations",
-          "description": null,
+          "description": "daimajia/AndroidViewAnimations",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1410,7 +1410,7 @@
             "open_issues": 68,
             "owner": "daimajia",
             "repo": "AndroidViewAnimations",
-            "stars": 12440,
+            "stars": 12439,
             "topics": [
               "android",
               "animation",
@@ -1422,7 +1422,7 @@
         {
           "node_type": "item",
           "title": "animate",
-          "description": null,
+          "description": "hitherejoe/animate",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1443,7 +1443,7 @@
         {
           "node_type": "item",
           "title": "awesome-animation",
-          "description": null,
+          "description": "Animatious/awesome-animation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1486,7 +1486,7 @@
             "open_issues": 254,
             "owner": "navasmdc",
             "repo": "MaterialDesignLibrary",
-            "stars": 8910,
+            "stars": 8909,
             "topics": [
               "android",
               "material-design"
@@ -1497,7 +1497,7 @@
         {
           "node_type": "item",
           "title": "Material Design 教程(中文版)",
-          "description": null,
+          "description": "1sters/material_design_zh_2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1524,7 +1524,7 @@
         {
           "node_type": "item",
           "title": "awesome-design",
-          "description": null,
+          "description": "gztchan/awesome-design",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1537,7 +1537,7 @@
             "open_issues": 63,
             "owner": "gztchan",
             "repo": "awesome-design",
-            "stars": 17591,
+            "stars": 17592,
             "topics": [
               "adobe",
               "awesome",
@@ -1579,7 +1579,7 @@
             "open_issues": 33,
             "owner": "Trinea",
             "repo": "android-open-project",
-            "stars": 31805,
+            "stars": 31804,
             "topics": [
               "android",
               "open-source-project"
@@ -1596,7 +1596,7 @@
         {
           "node_type": "item",
           "title": "java-design-patterns",
-          "description": null,
+          "description": "iluwatar/java-design-patterns",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1609,7 +1609,7 @@
             "open_issues": 133,
             "owner": "iluwatar",
             "repo": "java-design-patterns",
-            "stars": 94758,
+            "stars": 94756,
             "topics": [
               "awesome-list",
               "design-patterns",
@@ -1626,7 +1626,7 @@
         {
           "node_type": "item",
           "title": "Android源码设计模式分析项目",
-          "description": null,
+          "description": "simple-android-framework-exchange/android_design_patterns_analysis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1653,7 +1653,7 @@
         {
           "node_type": "item",
           "title": "Android 开发最佳实践",
-          "description": null,
+          "description": "futurice/android-best-practices",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1666,7 +1666,7 @@
             "open_issues": 30,
             "owner": "futurice",
             "repo": "android-best-practices",
-            "stars": 20412,
+            "stars": 20411,
             "topics": [
               "android",
               "android-development",
@@ -1678,7 +1678,7 @@
         {
           "node_type": "item",
           "title": "AndroidNote",
-          "description": null,
+          "description": "CharonChui/AndroidNote",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1691,7 +1691,7 @@
             "open_issues": 4,
             "owner": "CharonChui",
             "repo": "AndroidNote",
-            "stars": 3942,
+            "stars": 3940,
             "topics": [
               "android",
               "source-code",
@@ -1703,7 +1703,7 @@
         {
           "node_type": "item",
           "title": "Android-Tips",
-          "description": null,
+          "description": "tangqi92/Android-Tips",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1735,7 +1735,7 @@
         {
           "node_type": "item",
           "title": "Java 反射最佳实践",
-          "description": null,
+          "description": "kaleai/Android-Best-Practices",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1756,7 +1756,7 @@
         {
           "node_type": "item",
           "title": "Adapter 优化方案的探索",
-          "description": null,
+          "description": "kaleai/Android-Best-Practices",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1777,7 +1777,7 @@
         {
           "node_type": "item",
           "title": "收集了大家常用的一些 Android 的模板代码",
-          "description": null,
+          "description": "jiang111/awesome-android-tips",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1802,7 +1802,7 @@
         {
           "node_type": "item",
           "title": "Android 常用工具类",
-          "description": null,
+          "description": "l123456789jy/Lazy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1830,7 +1830,7 @@
         {
           "node_type": "item",
           "title": "Android 一些重要知识点解析整理",
-          "description": null,
+          "description": "FX-Max/Point-of-Android",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1882,7 +1882,7 @@
         {
           "node_type": "item",
           "title": "国内一线互联网公司内部面试题库",
-          "description": null,
+          "description": "JackyAndroid/AndroidInterview-Q-A",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1913,7 +1913,7 @@
         {
           "node_type": "item",
           "title": "Android 开发人员不得不收集的代码",
-          "description": null,
+          "description": "Blankj/AndroidUtilCode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1926,7 +1926,7 @@
             "open_issues": 328,
             "owner": "Blankj",
             "repo": "AndroidUtilCode",
-            "stars": 33619,
+            "stars": 33617,
             "topics": [
               "android",
               "androidx",
@@ -1976,7 +1976,7 @@
         {
           "node_type": "item",
           "title": "Android 开发中的日常积累",
-          "description": null,
+          "description": "lizhangqu/CoreLink",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2000,7 +2000,7 @@
         {
           "node_type": "item",
           "title": "AndroidArchitectureCollection",
-          "description": null,
+          "description": "ProgrammerAnthony/Pantheon",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2023,7 +2023,7 @@
         {
           "node_type": "item",
           "title": "Android 开发收藏夹",
-          "description": null,
+          "description": "ruijun/Android-Dev-Favorites",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2044,7 +2044,7 @@
         {
           "node_type": "item",
           "title": "Android 架构合集",
-          "description": null,
+          "description": "Juude/Awesome-Android-Architecture",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2067,7 +2067,7 @@
         {
           "node_type": "item",
           "title": "AndroidCat 安卓书签网",
-          "description": null,
+          "description": "ColorfulCat/AndroidGuide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2090,7 +2090,7 @@
         {
           "node_type": "item",
           "title": "AndroidTips",
-          "description": null,
+          "description": "johncaijing/AndroidTips",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2122,7 +2122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:24:02.765Z",
+    "last_updated": "2026-10-03T04:23:46.745Z",
     "original_repository_info": {
       "archived": false,
       "description": "Some Android learning materials, hoping to help you learn Android development.",
