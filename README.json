@@ -19,7 +19,7 @@
             "open_issues": 453,
             "owner": "skylot",
             "repo": "jadx",
-            "stars": 50756,
+            "stars": 50758,
             "topics": [
               "android",
               "decompiler",
@@ -1166,7 +1166,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 515355,
+            "stars": 515401,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1193,7 +1193,7 @@
             "open_issues": 41,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57849,
+            "stars": 57850,
             "topics": [
               "android",
               "awesome",
@@ -1215,10 +1215,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-23T10:50:49Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 49178,
+            "stars": 49179,
             "topics": [
               "awesome",
               "awesome-list"
@@ -2122,7 +2122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:23:58.044Z",
+    "last_updated": "2026-10-06T12:14:59.493Z",
     "original_repository_info": {
       "archived": false,
       "description": "Some Android learning materials, hoping to help you learn Android development.",

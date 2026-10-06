@@ -63,7 +63,7 @@
 | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Android Studio](http://developer.android.com/sdk/index.html)                                                                      | 这个开发工具上手需要一定的时间, 自从 Google 推出1.0正式版, 这个工具一直火爆, 谷歌也不停更新维护, 性能逐渐稳定提高, 目前 github 上面的绝大多数开源项目都是使用 Android Studio 工具, 这就是开发 Android 必须掌握使用的工具, 如果还在使用 Eclipse 开发 Android 的童鞋们, 赶紧换成 AS 开发吧                                                                                 |
 | [Genymotion](https://www.genymotion.com/#!/download)                                                                               | 强大好用高性能的 Android 模拟器, 自带的那个模拟器简直不忍直视, 启动超慢的, 跟这个没法比, 无论你是用 Eclipse 还是 Android Studio 里面都有 Genymotion 插件                                                                                                                                                               |
-| [jadx](https://github.com/skylot/jadx) ⭐ 50,756 \| 🐛 453 \| 🌐 Java \| 📅 2026-10-05                                              | 一个 Android 反编译神器, 不同于常见的 [dex2jar](https://github.com/pxb1988/dex2jar) ⭐ 13,143 \| 🐛 380 \| 🌐 Java \| 📅 2024-07-21, 这个反编译器生成代码的 try/catch 次数更少, View也不再是数字 id 了, 可读性更高                                                                                             |
+| [jadx](https://github.com/skylot/jadx) ⭐ 50,758 \| 🐛 453 \| 🌐 Java \| 📅 2026-10-05                                              | 一个 Android 反编译神器, 不同于常见的 [dex2jar](https://github.com/pxb1988/dex2jar) ⭐ 13,143 \| 🐛 380 \| 🌐 Java \| 📅 2024-07-21, 这个反编译器生成代码的 try/catch 次数更少, View也不再是数字 id 了, 可读性更高                                                                                             |
 | [android-selector](https://github.com/importre/android-selector-intellij-plugin) ⭐ 293 \| 🐛 0 \| 🌐 Java \| 📅 2015-11-12         | 可以根据指定颜色生成 Selector Drawable 的插件                                                                                                                                                                                                                                      |
 | [GradleDependenciesHelperPlugin](https://github.com/ligi/GradleDependenciesHelperPlugin) ⭐ 380 \| 🐛 2 \| 🌐 Java \| 📅 2014-05-24 | Gradle 依赖自动补全插件                                                                                                                                                                                                                                                       |
 | [Smali Viewer](http://blog.avlyun.com/show/%E3%80%8Asv%E7%94%A8%E6%88%B7%E6%8C%87%E5%8D%97%E3%80%8B/)                              | sv 是一款免费 APK 分析软件, 对你感兴趣的 APP 分析看看它们都用了些什么, 对你学习借鉴有一定帮助                                                                                                                                                                                                               |
@@ -175,9 +175,9 @@
 
 ## Awesome 系列
 
-* [awesome 系列之终极版](https://github.com/sindresorhus/awesome) ⭐ 515,355 | 🐛 106 | 📅 2026-09-02
-* [awesome\_android\_UI](https://github.com/wasabeef/awesome-android-ui) ⭐ 57,849 | 🐛 41 | 📅 2026-06-05
-* [awesome\_java](https://github.com/akullpp/awesome-java) ⭐ 49,178 | 🐛 13 | 📅 2026-09-23
+* [awesome 系列之终极版](https://github.com/sindresorhus/awesome) ⭐ 515,401 | 🐛 106 | 📅 2026-09-02
+* [awesome\_android\_UI](https://github.com/wasabeef/awesome-android-ui) ⭐ 57,850 | 🐛 41 | 📅 2026-06-05
+* [awesome\_java](https://github.com/akullpp/awesome-java) ⭐ 49,179 | 🐛 14 | 📅 2026-09-23
 * [awesome-adb](https://github.com/mzlogin/awesome-adb) ⭐ 12,470 | 🐛 52 | 📅 2026-09-29
 * [awesome\_android(2)](https://github.com/JStumpp/awesome-android) ⭐ 12,376 | 🐛 102 | 📅 2025-10-27
 * [awesome android(1)](https://github.com/snowdream/awesome-android) ⚠️ Archived
