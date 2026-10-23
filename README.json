@@ -16,10 +16,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-14T22:10:04Z",
-            "open_issues": 461,
+            "open_issues": 462,
             "owner": "skylot",
             "repo": "jadx",
-            "stars": 51176,
+            "stars": 51207,
             "topics": [
               "android",
               "decompiler",
@@ -388,10 +388,10 @@
             "language": "Kotlin",
             "license": "Apache-2.0",
             "last_commit": "2026-10-21T15:42:05Z",
-            "open_issues": 129,
+            "open_issues": 130,
             "owner": "square",
             "repo": "leakcanary",
-            "stars": 29999,
+            "stars": 29997,
             "topics": [
               "android",
               "java",
@@ -429,7 +429,7 @@
             "open_issues": 76,
             "owner": "google",
             "repo": "iosched",
-            "stars": 21631,
+            "stars": 21630,
             "topics": [
               "android",
               "architecture",
@@ -456,7 +456,7 @@
             "open_issues": 99,
             "owner": "android",
             "repo": "uamp",
-            "stars": 13159,
+            "stars": 13161,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
@@ -550,7 +550,7 @@
             "open_issues": 14,
             "owner": "daimajia",
             "repo": "AnimeTaste",
-            "stars": 1618,
+            "stars": 1619,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
@@ -571,7 +571,7 @@
             "open_issues": 6,
             "owner": "daimajia",
             "repo": "EverMemo",
-            "stars": 797,
+            "stars": 798,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
@@ -613,7 +613,7 @@
             "open_issues": 19,
             "owner": "MiCode",
             "repo": "Notes",
-            "stars": 2115,
+            "stars": 2116,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
@@ -634,7 +634,7 @@
             "open_issues": 40,
             "owner": "muzei",
             "repo": "muzei",
-            "stars": 4954,
+            "stars": 4955,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
@@ -778,7 +778,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-19T22:36:12Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "zxing",
             "repo": "zxing",
             "stars": 34176,
@@ -892,10 +892,10 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-10-13T06:21:52Z",
-            "open_issues": 381,
+            "open_issues": 380,
             "owner": "AntennaPod",
             "repo": "AntennaPod",
-            "stars": 8239,
+            "stars": 8238,
             "topics": [
               "android",
               "apps",
@@ -984,7 +984,7 @@
             "open_issues": 19,
             "owner": "kymjs",
             "repo": "KJFrameForAndroid",
-            "stars": 1937,
+            "stars": 1938,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
@@ -1166,7 +1166,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 522603,
+            "stars": 523367,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1193,7 +1193,7 @@
             "open_issues": 43,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 58081,
+            "stars": 58096,
             "topics": [
               "android",
               "awesome",
@@ -1215,10 +1215,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-23T10:50:49Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 49323,
+            "stars": 49322,
             "topics": [
               "awesome",
               "awesome-list"
@@ -1242,7 +1242,7 @@
             "open_issues": 52,
             "owner": "mzlogin",
             "repo": "awesome-adb",
-            "stars": 12493,
+            "stars": 12496,
             "topics": [
               "android",
               "android-adb",
@@ -1267,7 +1267,7 @@
             "open_issues": 106,
             "owner": "JStumpp",
             "repo": "awesome-android",
-            "stars": 12412,
+            "stars": 12415,
             "topics": [
               "android-development",
               "android-library",
@@ -1320,7 +1320,7 @@
             "open_issues": 15,
             "owner": "lightSky",
             "repo": "Awesome-MaterialDesign",
-            "stars": 5854,
+            "stars": 5853,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
@@ -1341,7 +1341,7 @@
             "open_issues": 64,
             "owner": "wasabeef",
             "repo": "awesome-android-libraries",
-            "stars": 5532,
+            "stars": 5531,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
@@ -1410,7 +1410,7 @@
             "open_issues": 68,
             "owner": "daimajia",
             "repo": "AndroidViewAnimations",
-            "stars": 12432,
+            "stars": 12434,
             "topics": [
               "android",
               "animation",
@@ -1435,7 +1435,7 @@
             "open_issues": 9,
             "owner": "hitherejoe",
             "repo": "animate",
-            "stars": 3071,
+            "stars": 3070,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:51.435Z"
@@ -1486,7 +1486,7 @@
             "open_issues": 254,
             "owner": "navasmdc",
             "repo": "MaterialDesignLibrary",
-            "stars": 8908,
+            "stars": 8909,
             "topics": [
               "android",
               "material-design"
@@ -1534,10 +1534,10 @@
             "language": null,
             "license": null,
             "last_commit": "2024-07-04T18:17:39Z",
-            "open_issues": 69,
+            "open_issues": 70,
             "owner": "gztchan",
             "repo": "awesome-design",
-            "stars": 17671,
+            "stars": 17675,
             "topics": [
               "adobe",
               "awesome",
@@ -1579,7 +1579,7 @@
             "open_issues": 34,
             "owner": "Trinea",
             "repo": "android-open-project",
-            "stars": 31799,
+            "stars": 31802,
             "topics": [
               "android",
               "open-source-project"
@@ -1606,10 +1606,10 @@
             "language": "Java",
             "license": "NOASSERTION",
             "last_commit": "2026-10-08T12:44:21Z",
-            "open_issues": 142,
+            "open_issues": 144,
             "owner": "iluwatar",
             "repo": "java-design-patterns",
-            "stars": 94811,
+            "stars": 94815,
             "topics": [
               "awesome-list",
               "design-patterns",
@@ -1666,7 +1666,7 @@
             "open_issues": 30,
             "owner": "futurice",
             "repo": "android-best-practices",
-            "stars": 20408,
+            "stars": 20409,
             "topics": [
               "android",
               "android-development",
@@ -1691,7 +1691,7 @@
             "open_issues": 4,
             "owner": "CharonChui",
             "repo": "AndroidNote",
-            "stars": 3945,
+            "stars": 3944,
             "topics": [
               "android",
               "source-code",
@@ -1926,7 +1926,7 @@
             "open_issues": 327,
             "owner": "Blankj",
             "repo": "AndroidUtilCode",
-            "stars": 33610,
+            "stars": 33611,
             "topics": [
               "android",
               "androidx",
@@ -2122,7 +2122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T10:41:33.193Z",
+    "last_updated": "2026-10-23T10:33:50.488Z",
     "original_repository_info": {
       "archived": false,
       "description": "Some Android learning materials, hoping to help you learn Android development.",
@@ -2134,7 +2134,7 @@
       "open_issues": 10,
       "owner": "Freelander",
       "repo": "Android_Data",
-      "stars": 8962,
+      "stars": 8963,
       "topics": [
         "android",
         "android-library",
